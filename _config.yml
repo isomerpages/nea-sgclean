@@ -22,7 +22,7 @@ colors:
 collections:
   about:
     output: true
-  checklists:
+  get accredited:
     output: true
   resources:
     output: true
