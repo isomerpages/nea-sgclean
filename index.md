@@ -6,8 +6,7 @@ image: /images/sgcleanlogo.jpg
 permalink: /
 sections:
     - hero:
-        title: Adopt good habits,
-        keep Singapore clean
+        title: Adopt good habits, keep Singapore clean
         subtitle: SG Clean campaign
         background: /images/hero-banner.png
         button: Learn More
