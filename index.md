@@ -4,29 +4,28 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Adopt good habits, keep Singapore clean
+        subtitle: SG Clean campaign and the quality mark
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        button: Learn More
+        url: /About/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: Get Certified
+              description: Find out how to obtain the SG Clean quality mark
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: Certified Premises
+              description: Check if existing spaces are certified
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
+            - title: Resources
+              description:
               url: /privacy/
     - infobar:
         title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
+        subtitle: 
+        description: Brief description of SG Clean. 
+        button: More questions? Read our FAQs.
         url: /faq/
     - resources:
         title: Media
