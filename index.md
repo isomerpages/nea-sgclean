@@ -2,33 +2,34 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/sgcleanlogo.jpg
 permalink: /
 sections:
     - hero:
-        title: Adopt good habits, keep Singapore clean
-        subtitle: SG Clean campaign and the quality mark
+        title: Adopt good habits,
+        keep Singapore clean
+        subtitle: SG Clean campaign
         background: /images/hero-banner.png
         button: Learn More
         url: /About/
         key_highlights:
-            - title: Get Certified
-              description: Find out how to obtain the SG Clean quality mark
+            - title: JOIN THE CAMPAIGN
+              description: Get certified with the SG Clean quality mark
               url: https://google.com
-            - title: Certified Premises
-              description: Check if existing spaces are certified
+            - title: CERTIFIED PREMISES
+              description: Find out which sectors are on board
               url: https://gmail.com
-            - title: Resources
+            - title: RESOURCES
               description:
               url: /privacy/
     - infobar:
-        title: Infobar title
+        title: Sustain good habits of personal and public hygiene
         subtitle: 
-        description: Brief description of SG Clean. 
-        button: More questions? Read our FAQs.
+        description: Help fight the COVID-19 outbreak. Have questions?
+        button: Read our FAQs.
         url: /faq/
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: Latest News
+        subtitle:
         button: View More
 ---
