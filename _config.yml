@@ -5,7 +5,7 @@ favicon: /images/favicon-isomer.ico
 # Site colors
 colors:
   primary-color: '#71B548'
-  secondary-color: '#FDF9D6'
+  secondary-color: '#b54f48'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -22,7 +22,7 @@ colors:
 collections:
   about:
     output: true
-  checklists:
+  join:
     output: true
   resources:
     output: true
