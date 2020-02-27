@@ -20,9 +20,9 @@ colors:
 
 
 collections:
-  about:
-    output: true
   join:
+    output: true
+  certified-premises:
     output: true
   resources:
     output: true
