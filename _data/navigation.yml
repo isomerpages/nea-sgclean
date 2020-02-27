@@ -7,13 +7,15 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Faq
-    url: /faq/
   - title: About
     collection: about
-  - title: Checklists
-    collection: checklists
+  - title: Join the Campaign
+    collection: join
+  - title: Certified Premises
+    collection: certified-premises
   - title: Resources
     collection: resources
+  - title: FAQs
+    url: /faq/
   - title: Media
     resource_room: true
