@@ -3,14 +3,12 @@ title: About the SG Clean campaign
 permalink: /about/
 ---
 
-# About SG Clean
-
 ## SG Clean" is a campaign to rally public and businesses to work together to keep Singapore clean.  
   
 Launched on 16 Feb 2020, the campaign calls on members of the public to adopt good personal and environmental hygiene habits, to help keep Singapore clean. It also calls on organisations to adhere to sanitation and hygiene checklists by the authorities.  
   
 
-![](../images/min-pasting-sticker2.jpg")
+![](/images/min-pasting-sticker2.jpg")
 
 
 > ### These measures to elevate cleanliness and public hygiene in Singapore will help safeguard public health. NEA hopes to sustain the campaign beyond the current outbreak of COVID-19 (Coronavirus Disease 2019), and make keeping Singapore clean a way of life.
