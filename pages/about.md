@@ -15,7 +15,7 @@ Launched on 16 Feb 2020, the campaign calls on members of the public to adopt go
 
 > ### These measures to elevate cleanliness and public hygiene in Singapore will help safeguard public health. NEA hopes to sustain the campaign beyond the current outbreak of COVID-19 (Coronavirus Disease 2019), and make keeping Singapore clean a way of life.
 
-##  ** 7 Habits of Good Public Hygiene”**
+##  ** 7 Habits of Good Public Hygiene **
 
 Members of the public are encouraged to adopt the following “seven habits” of good public hygiene practices at all times:  
   
