@@ -2,7 +2,7 @@
 layout: homepage
 title: SG Clean
 description: 
-image: /images/sgcleanlogo.jpg
+image: /images/handwash2.jpg
 permalink: /
 sections:
     - hero:
@@ -24,12 +24,12 @@ sections:
         description: There are simple, everyday steps that everyone can take to improve our hygiene standards.
         button: Adopt the 7 habits of good public hygiene
         url: /resources/advisories/
-        image: /images/tablewipe.jpg
+        image: /images/tablewipe2.jpg
         alt: Adopt the 7 habits of good public hygiene
     - infopic:
-        title: Learn more about the SG Clean quality mark
+        title: The SG Clean quality mark
         subtitle:
-        description: Organisations from specific sectors that commit to upholding good sanitation and hygiene practices can be assessed and certified.
+        description: Organisations from specific sectors that commit to upholding good sanitation and hygiene practices can be assessed and certified with the SG Clean quality mark.
         button: Find out how
         url: /join/how-to-be-certified/
         image: /images/min-pasting-sticker2.jpg
