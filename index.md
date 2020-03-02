@@ -1,41 +1,39 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: SG Clean
+description: 
 image: /images/sgcleanlogo.jpg
 permalink: /
 sections:
     - hero:
-        title: Adopt good habits, keep Singapore clean
-        subtitle: SG Clean campaign
+        title: SG Clean campaign
+        subtitle: Adopt good hygiene habits, keep Singapore clean.
         background: /images/hero-banner.png
         button: Learn More
         url: /About/
         key_highlights:
             - title: JOIN THE CAMPAIGN
-              description: Get certified with the SG Clean quality mark
-              url: https://google.com
+              url: /join/how-to-be-certified/
             - title: CERTIFIED PREMISES
-              description: Find out which sectors are on board
-              url: https://gmail.com
+              url: /join/certified-premises/
             - title: RESOURCES
-              description:
-              url: /privacy/
+              url: /resources/advisories/
     - infopic:
-        title: Sustain good habits of personal and public hygiene
-        subtitle: 
-        description: Have questions?
-        button: Read our FAQs.
-        url: /faq/
+        title: Let's be socially responsible.
+        subtitle:  
+        description: There are simple, everyday steps that everyone can take to contribute to better personal and public hygiene standards around us.
+        button: Practise our 7 habits of good public hygiene
+        url: /resources/advisories/
         image: /images/sgcleanlogo.jpg
-        alt: sustain good habits
+        alt: Practise our 7 habits of good public hygiene
     - infopic:
         title: Learn more about the SG Clean quality mark
         subtitle:
-        description: Test infopic 2
-        url: /faq/
+        description: Organisations from specific sectors that commit to upholding good sanitation and hygiene practices can be assessed and certified.
+        button: Find out how
+        url: /join/how-to-be-certified/
         image: /images/sgcleanlogo.jpg
-        alt: learn more
+        alt: SG Clean quality mark
     - resources:
         title: Latest News
         subtitle:
