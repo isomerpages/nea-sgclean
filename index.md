@@ -22,23 +22,29 @@ sections:
               description:
               url: /privacy/
     - infobar:
-        title: Sustain good habits of personal and public hygiene
+        title: 
         subtitle: 
         description: Help fight the COVID-19 outbreak. Have questions?
-        button: Read our FAQs.
+        button: 
         url: /faq/
-    
-    - info-section:
-        section-title: 
-        section-subtitle: "Good hygiene. Together."
-        section-description: |
-          Practise the 7 Habits of Good Public Hyigene
-
-          Lorem ipsum.
-        section-more-button: More Information
-        external: false
-        section-more-button-url: /exhibitions/current-exhibitions/onpaper#tab1
-        section-image-path: /images/event-images/onpaper/OnPaper-homepage-side-info.png
+        
+    - infopic:
+        title: Sustain good habits of personal and public hygiene
+        subtitle: 
+        description: More questions? Read our FAQs.
+        button: Read our FAQs
+        url: /core-values/
+        image: /images/integrity.png
+        alt: 
+        
+     - infopic:
+        title: Professionalism
+        subtitle: Core Values
+        description: We strive to deliver work of the highest calibre
+        button: Learn More
+        url: /core-values/
+        image: /images/professionalism.png
+        alt: Members of the Ministry of ABC in suits
     
     - resources:
         title: Latest News
