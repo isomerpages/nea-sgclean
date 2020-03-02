@@ -6,7 +6,7 @@ image: /images/sgcleanlogo.jpg
 permalink: /
 sections:
     - hero:
-        title: SG Clean campaign
+        title: SG Clean Campaign
         subtitle: Adopt good hygiene habits, keep Singapore clean.
         background: /images/hero-banner.png
         button: Learn More
@@ -21,11 +21,11 @@ sections:
     - infopic:
         title: Let's be socially responsible.
         subtitle:  
-        description: There are simple, everyday steps that everyone can take to contribute to better personal and public hygiene standards around us.
-        button: Practise our 7 habits of good public hygiene
+        description: There are simple, everyday steps that everyone can take to improve our hygiene standards.
+        button: Adopt the 7 habits of good public hygiene
         url: /resources/advisories/
         image: /images/sgcleanlogo.jpg
-        alt: Practise our 7 habits of good public hygiene
+        alt: Adopt the 7 habits of good public hygiene
     - infopic:
         title: Learn more about the SG Clean quality mark
         subtitle:
