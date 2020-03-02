@@ -8,7 +8,6 @@ sections:
     - hero:
         title: Adopt good habits,
         keep Singapore clean
-        title: Adopt good habits, keep Singapore clean
         subtitle: SG Clean campaign
         background: /images/hero-banner.png
         button: Learn More
@@ -23,13 +22,12 @@ sections:
             - title: RESOURCES
               description:
               url: /privacy/
-    - infopic:
+    - infobar:
         title: Sustain good habits of personal and public hygiene
         subtitle: 
         description: Help fight the COVID-19 outbreak. Have questions?
         button: Read our FAQs.
         url: /faq/
-        image: /images/integrity.png
     - resources:
         title: Latest News
         subtitle:
