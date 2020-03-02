@@ -8,7 +8,7 @@ sections:
     - hero:
         title: SG Clean Campaign
         subtitle: Adopt good hygiene habits, keep Singapore clean.
-        background: /images/hero-banner.png
+        background: /images/handwash.jpg
         button: Learn More
         url: /About/
         key_highlights:
@@ -24,7 +24,7 @@ sections:
         description: There are simple, everyday steps that everyone can take to improve our hygiene standards.
         button: Adopt the 7 habits of good public hygiene
         url: /resources/advisories/
-        image: /images/sgcleanlogo.jpg
+        image: /images/tablewipe.jpg
         alt: Adopt the 7 habits of good public hygiene
     - infopic:
         title: Learn more about the SG Clean quality mark
@@ -32,7 +32,7 @@ sections:
         description: Organisations from specific sectors that commit to upholding good sanitation and hygiene practices can be assessed and certified.
         button: Find out how
         url: /join/how-to-be-certified/
-        image: /images/sgcleanlogo.jpg
+        image: /images/min-pasting-sticker2.jpg
         alt: SG Clean quality mark
     - resources:
         title: Latest News
