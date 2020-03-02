@@ -8,7 +8,7 @@ sections:
     - hero:
         title: SG Clean Campaign
         subtitle: Adopt good hygiene habits, keep Singapore clean.
-        background: /images/handwash.jpg
+        background: /images/handwash2.jpg
         button: Learn More
         url: /About/
         key_highlights:
