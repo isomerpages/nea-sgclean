@@ -8,15 +8,15 @@ colors:
   secondary-color: '#71B548'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#31572C'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#4F772D'
     - title: media-color-three
-      color: '#00838f'
+      color: '#132A13'
     - title: media-color-four
-      color: '#00838f'
+      color: '#ECF39E'
     - title: media-color-five
-      color: '#00838f'
+      color: '#D2E4C4'
       
       
 collections:
