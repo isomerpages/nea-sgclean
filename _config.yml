@@ -22,8 +22,6 @@ colors:
 collections:
   join:
     output: true
-  certified-premises:
-    output: true
   resources:
     output: true
 resources_name: media
