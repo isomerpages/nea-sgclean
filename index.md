@@ -21,12 +21,13 @@ sections:
             - title: RESOURCES
               description:
               url: /privacy/
-    - infobar:
+    - infopic:
         title: Sustain good habits of personal and public hygiene
         subtitle: 
         description: Help fight the COVID-19 outbreak. Have questions?
         button: Read our FAQs.
         url: /faq/
+        image: /images/sgcleanlogo.jpg
     - resources:
         title: Latest News
         subtitle:
