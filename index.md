@@ -21,12 +21,6 @@ sections:
             - title: RESOURCES
               description:
               url: /privacy/
-    - infobar:
-        title: 
-        subtitle: 
-        description: Help fight the COVID-19 outbreak. Have questions?
-        button: 
-        url: /faq/
         
     - infopic:
         title: Sustain good habits of personal and public hygiene
