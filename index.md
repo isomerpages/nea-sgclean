@@ -24,10 +24,18 @@ sections:
     - infopic:
         title: Sustain good habits of personal and public hygiene
         subtitle: 
-        description: Test infopic Have questions?
+        description: Have questions?
         button: Read our FAQs.
         url: /faq/
         image: /images/sgcleanlogo.jpg
+        alt: sustain good habits
+    - infopic:
+        title: Learn more about the SG Clean quality mark
+        subtitle:
+        description: Test infopic 2
+        url: /faq/
+        image: /images/sgcleanlogo.jpg
+        alt: learn more
     - resources:
         title: Latest News
         subtitle:
