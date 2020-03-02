@@ -24,7 +24,7 @@ sections:
     - infopic:
         title: Sustain good habits of personal and public hygiene
         subtitle: 
-        description: Help fight the COVID-19 outbreak. Have questions?
+        description: Test infopic Have questions?
         button: Read our FAQs.
         url: /faq/
         image: /images/sgcleanlogo.jpg
