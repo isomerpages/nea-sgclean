@@ -27,6 +27,19 @@ sections:
         description: Help fight the COVID-19 outbreak. Have questions?
         button: Read our FAQs.
         url: /faq/
+    
+    - info-section:
+        section-title: 
+        section-subtitle: "Good hygiene. Together."
+        section-description: |
+          Practise the 7 Habits of Good Public Hyigene
+
+          Lorem ipsum.
+        section-more-button: More Information
+        external: false
+        section-more-button-url: /exhibitions/current-exhibitions/onpaper#tab1
+        section-image-path: /images/event-images/onpaper/OnPaper-homepage-side-info.png
+    
     - resources:
         title: Latest News
         subtitle:
