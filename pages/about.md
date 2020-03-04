@@ -8,7 +8,7 @@ permalink: /about/
 Launched on 16 Feb 2020, the campaign calls on members of the public to adopt good personal and environmental hygiene habits, to help keep Singapore clean. It also calls on organisations to adhere to sanitation and hygiene checklists by the authorities.  
   
 
-![Certifying a premise with the SG Clean quality mark](/images/min-pasting-sticker2.jpg)
+![Getting SG Clean certified](/images/hawker1.jpg)
 
 
 
