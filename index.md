@@ -6,7 +6,7 @@ image: /images/handwash2.jpg
 permalink: /
 sections:
     - hero:
-        title: LET'S JOIN HANDS TO KEEP SINGAPORE CLEAN
+        title: Let's Join Hands to Keep Singapore Clean
         subtitle: SG Clean Campaign
         background: /images/handwash2.jpg
         button: Learn More
@@ -19,10 +19,10 @@ sections:
             - title: RESOURCES
               url: /resources/advisories/
     - infopic:
-        title: Adopt the 7 habits of good public hygiene
+        title: Practise the 7 habits of good public hygiene
         subtitle:  
         description: These are simple, everyday steps that everyone can take to improve our hygiene standards.
-        button: Learn how to adopt them
+        button: Adopt the 7 habits here
         url: /resources/advisories/
         image: /images/tablewipe.jpg
         alt: Adopt the 7 habits of good public hygiene
