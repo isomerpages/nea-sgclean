@@ -9,11 +9,12 @@ permalink: /resources/advisories/
 #### General Sanitation and Hygiene Advisory for Premises Owners and Operators
 
 
-*Revised on 03 February 2020*
+*Revised on 03 February 2020*<br>
 *First release on 31 January 2020*
 
 
-**The National Environment Agency (NEA) urges premises owners and operators to maintain high standards of sanitation and personal hygiene to minimise the transmission of the COVID-19 (Coronavirus Disease 2019).** <br>
+**The National Environment Agency (NEA) urges premises owners and operators to maintain high standards of sanitation and personal hygiene to minimise the transmission of the COVID-19 (Coronavirus Disease 2019).**
+<br>
 *Premises owners or operators of **specific sectors**, you may download more specific advisories [**here**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators).*
 
 **Premises owners and operators are advised to implement the following good practices:**
