@@ -7,9 +7,6 @@ permalink: /join/certified-premises/
 
 [Hawker Centres](#hawker) | [Early Childhood Facilities](#early)| 
 
-<p align="center">
-  <img src="/images/kids.jpg">
-</p>
 
 ### Hawker Centres
 <a name="hawker"></a>
