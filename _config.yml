@@ -10,14 +10,15 @@ colors:
     - title: media-color-one
       color: '#D2E4C4'
     - title: media-color-two
-      color: '#4F772D'
+      color: '#D2E4C4'
     - title: media-color-three
-      color: '#132A13'
+      color: '#D2E4C4'
     - title: media-color-four
       color: '#ECF39E'
     - title: media-color-five
-      color: '#31572C'
-      
+      color: '#D2E4C4'
+
+#other colours: 31572C 4F772D
       
 collections:
   join:
