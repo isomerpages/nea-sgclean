@@ -8,17 +8,21 @@ permalink: /terms-of-use/
 Thank you for visiting the SG Clean website (the “Site”), operated by the National Environment Agency ("NEA"). By accessing and using any part of this Site, you unconditionally accept to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
 
 **GENERAL**
+
 These Terms of Use may be changed from time to time. All changes will be posted on this page, and your use of this Site after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes. You should therefore read this page carefully each time you visit this Site.
 
 **PROPRIETARY RIGHTS**
+
 2.1 This Site is the official website of the SG Clean campaign, it is built using "Isomer", Govtech's website generator,
 
 2.2 The materials located on this Site including the information, trade and service marks and any software programs ("the Contents"), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by NEA.
 
 **PRIVACY STATEMENT**
+
 Please refer this Site's Privacy Statement.
 
 **RESTRICTIONS ON USE OF THE CONTENTS**
+
 4.1 Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of NEA.
 
 4.2 Subject to Clause 4.3, to use any parts of the Contents of this Site, the user must seek NEA's permission in writing, stating the:
@@ -36,6 +40,7 @@ NEA reserves the right to refuse permission without declaring reason(s) and/or i
 4.5 The design and layout of this Site is protected by intellectual property and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound, image or search engine from this Site may be copied or transmitted unless expressly permitted by NEA.
 
 **DISCLAIMER OF WARRANTIES AND LIABILITY**
+
 The Contents of this Site are provided on an “as is” basis without any representations or warranties of any kind. While NEA has made every reasonable effort to ensure that the information contained in this Site has been obtained from reliable sources, NEA shall not be responsible for any errors or omissions, or for the results obtained from the use of such information.
 
 To the fullest extent permitted by law, NEA does not warrant and hereby disclaims any representation or warranty:
@@ -45,6 +50,7 @@ as to the accuracy, completeness, correctness, reliability, timeliness, non-infr
 The information provided herein is to give a better understanding of the user's obligations and does not constitute professional or legal advice. While every effort is made to ensure that the Contents herein are consistent with existing law and practice, members of the public are advised to refer to the relevant legislation or to professional advice to be certain of their legal obligations.
 
 **RIGHT OF ACCESS**
+
 NEA reserves all rights to deny or restrict access to this Site to any particular person, or to block access from a particular Internet address to this Site, at any time, without ascribing any reasons whatsoever.
 
 You unconditionally agree that you will not:
@@ -74,6 +80,7 @@ take any action that imposes an unreasonable or disproportionately large load on
 All hyperlinks to other websites are provided as a convenience to you as a user of this Site. The inclusion of any hyperlink shall not imply the endorsement by NEA of the hyperlinked website. In no circumstances shall NEA be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.
 
 **LINKS TO THIS SITE TO OTHER WEBSITES**
+
 Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited:
 
 Linking to the Homepage: You may link to the Homepage of this Site, upon notifying NEA in writing.
@@ -91,4 +98,5 @@ NEA reserves all rights to disable any links to, or frames of any site containin
 NEA reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other website reached by links to or from this Site or any of the Contents.
 
 **GOVERNING LAW**
+
 These Terms of Use shall be governed and construed in accordance with the laws of the Republic of Singapore.
