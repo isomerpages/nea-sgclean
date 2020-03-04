@@ -10,11 +10,11 @@ permalink: /resources/advisories/
 
 
 *Revised on 03 February 2020*
-
 *First release on 31 January 2020*
 
 
-**The National Environment Agency (NEA) urges premises owners and operators to maintain high standards of sanitation and personal hygiene to minimise the transmission of the COVID-19 (Coronavirus Disease 2019).**
+**The National Environment Agency (NEA) urges premises owners and operators to maintain high standards of sanitation and personal hygiene to minimise the transmission of the COVID-19 (Coronavirus Disease 2019).** <br>
+*Premises owners or operators of **specific sectors**, you may download more specific advisories [**here**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators).*
 
 **Premises owners and operators are advised to implement the following good practices:**
 
@@ -41,9 +41,7 @@ Personnel working within the premises should be reminded to:
 5. Wash and disinfect all refuse bins, bin chambers and bin centres where necessary.
 6. Engage licensed waste contractors to remove refuse daily.
 
----
-
-###### Cleaning staff are encouraged to: 
+**Cleaning staff are encouraged to:**
 1. Soak cleaning cloths in household bleach at the proper concentration according to manufacturer's instructions and wash the cloth after use or before reuse.
 2. Clean and disinfect all cleaning equipment immediately after use. 
 
