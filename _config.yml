@@ -8,15 +8,15 @@ colors:
   secondary-color: '#71B548'
   media-colors:
     - title: media-color-one
-      color: '#D2E4C4'
+      color: '#B0BC98'
     - title: media-color-two
-      color: '#D2E4C4'
+      color: '#B0BC98'
     - title: media-color-three
-      color: '#D2E4C4'
+      color: '#B0BC98'
     - title: media-color-four
       color: '#ECF39E'
     - title: media-color-five
-      color: '#D2E4C4'
+      color: '#B0BC98'
 
 #other colours: 31572C 4F772D
       
