@@ -1,6 +1,7 @@
 ---
 title: Certified Premises
-permalink: /join/certified-premises/
+permalink: /join/for-owners/certified-premises/
+third_nav_title: For Owners of Premises
 ---
 
 ## Certified Premises
