@@ -19,7 +19,8 @@ third_nav_title: For Owners of Premises
 [MICE Venues](#mice) <br>
 [Integrated Resorts](#integrated) <br>
 [Tourist Attractions](#tourist) <br>
-[Cruise Terminals]**(#cruise) <br>
+[Cruise Terminals](#cruise)**
+
 
 ---
 <a name="hawker"></a>
