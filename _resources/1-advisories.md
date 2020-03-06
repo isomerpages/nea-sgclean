@@ -1,6 +1,6 @@
 ---
 title: Advisories
-permalink: /https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/
+permalink: /resources/advisories/
 ---
 
 ### ADVISORIES
