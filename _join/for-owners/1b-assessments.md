@@ -30,7 +30,8 @@ third_nav_title: For Owners of Premises
 <a name="hawker"></a>
 ### Hawker Centres
 
-[**Hawker centres checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-hawker.pdf)
+[**Hawker centres common area checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-hawker.pdf)
+[**Hawker centres food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/foodstalls.pdf)
 
 **Contact NEA:**
 e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
@@ -50,6 +51,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 <a name="transport"></a>
 ### Transport Nodes
 
+[**Transport nodes checklist**](https://nea-sgclean-staging.netlify.com/files/generic.pdf)
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -64,6 +67,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 <a name="schools"></a>
 ### Schools
+
+[**Transport nodes checklist**](https://nea-sgclean-staging.netlify.com/files/generic.pdf)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -80,6 +85,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 <a name="early"></a>
 ### Early Childhood Facilities
 
+[**Early childhood facilities checklist**](https://nea-sgclean-staging.netlify.com/files/generic.pdf)
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -94,6 +101,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 <a name="government"></a>
 ### Government-occupied Premises
+
+[**Government-occupied checklist**](https://nea-sgclean-staging.netlify.com/files/generic.pdf)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -110,6 +119,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 <a name="hotels"></a>
 ### Hotels
 
+[**(to be updated)**]()
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -123,7 +134,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 ---
 
 <a name="shopping"></a>
-### Shopping Malls
+### Shopping Malls and Developers
+
+[**Shopping malls and developers checklist**](https://nea-sgclean-staging.netlify.com/files/shopping.pdf)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -138,7 +151,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 ---
 
 <a name="retail"></a>
-### Retail
+### Retail and Shops
+
+[**Retail and shops checklist**](https://nea-sgclean-staging.netlify.com/files/retail.pdf)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -155,6 +170,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 <a name="food"></a>
 ### Food Establishments
 
+[**Food Establishments (to be updated)**](https://nea-sgclean-staging.netlify.com/files/fandb.pdf)
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -169,6 +186,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 <a name="mice"></a>
 ### MICE venues
+
+[**(to be updated)**]()
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -185,6 +204,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 <a name="integrated"></a>
 ### Integrated Resorts
 
+[**(to be updated)**]()
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -199,6 +220,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 <a name="tourist"></a>
 ### Tourist Attractions
+
+[**(to be updated)**]()
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -215,6 +238,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 <a name="cruise"></a>
 ### Cruise Terminals
 
+[**(to be updated)**]()
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -229,6 +254,8 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 <a name="sentosa"></a>
 ### Sentosa
+
+[**(to be updated)**]()
 
 <br><br><br><br><br><br><br><br><br><br>
 
