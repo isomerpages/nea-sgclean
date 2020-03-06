@@ -4,9 +4,9 @@ permalink: /join/for-owners/how-to-be-certified/
 third_nav_title: For Owners of Premises
 ---
 
-![SG Clean](.../images/tablewipebanner.jpg)
-
 > ## The SG CLEAN quality mark is awarded after an official assessment based on a checklist of requirements for sanitation and hygiene standards.<br>
+
+![SG Clean](/images/tablewipebanner.jpg)
 
 
 ### 1. Obtain checklist and ensure requirements are met<br>
