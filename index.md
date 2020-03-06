@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         title: Let's Do Our Part
-        subtitle: SG Clean Campaign
+        subtitle: to keep Singapore clean
         background: /images/tablewipe2.jpg
         button: Learn More
         url: /About/
