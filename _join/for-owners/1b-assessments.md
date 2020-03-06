@@ -6,19 +6,233 @@ third_nav_title: For Owners of Premises
 
 ## Select the category or sector that you most closely belong to:
 
+
+
+**[Hawker Centres](#hawker) <br>
+[Schools](#schools) <br>
+[Transport Nodes](#transport) <br>
+[Early Childhood Facilities](#early) <br>
+[Government-occupied Premises](#government) <br>
+[Hotels](#hotels) <br>
+[Shopping Malls](#shopping) <br>
+[Retail](#retail) <br>
+[Food Establishments](#food) <br>
+[MICE Venues](#mice) <br>
+[Integrated Resorts](#integrated) <br>
+[Tourist Attractions](#tourist) <br>
+[Cruise Terminals](#cruise)
+[Sentosa](#sentosa)**
+
+
+
 ---
-[Hawker Centres](../hawker.md) <br>
-[Schools](../schools.md) <br>
-[Transport Nodes](../transport.md) <br>
-[Early Childhood Facilities](../early.md) <br>
-[Government-occupied Premises](../government.md) <br>
-[Hotels](../hotels.md) <br>
-[Shopping Malls / Developers](../shopping.md) <br>
-[Retail / Shops](../retail.md) <br>
-[Food Establishments / Restaurants](../food.md) <br>
-[MICE Venues](../mice.md) <br>
-[Integrated Resorts](../integrated.md) <br>
-[Tourist Attractions](../tourist.md) <br>
-[Cruise Terminals](../cruise.md) <br>
-[Sentosa](../sentosa.md) <br>
+
+<a name="hawker"></a>
+### Hawker Centres
+![List of Hawker Centres awarded SG Clean](/join/for-owners/list-hawker.pdf)
+
+
+
+
+
+
+
+
+
+
+
+------
+
+<a name="transport"></a>
+### Transport Nodes
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="schools"></a>
+### Schools
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="early"></a>
+### Early Childhood Facilities
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="government"></a>
+### Government-occupied Premises
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="hotels"></a>
+### Hotels
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="shopping"></a>
+### Shopping Malls
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="retail"></a>
+### Retail
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="food"></a>
+### Food Establishments
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="mice"></a>
+### MICE venues
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="integrated"></a>
+### Integrated Resorts
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="tourist"></a>
+### Tourist Attractions
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="cruise"></a>
+### Cruise Terminals
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<a name="sentosa"></a>
+### Sentosa
+
+
+
+
+
+
+
+
+
+
 
