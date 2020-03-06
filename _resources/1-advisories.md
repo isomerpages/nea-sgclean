@@ -6,6 +6,8 @@ permalink: /https://www.nea.gov.sg/our-services/public-cleanliness/environmental
 ### ADVISORIES
 ---
 
+*See advisories for specific sectors [here](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/).*
+
 #### General Sanitation and Hygiene Advisory for Premises Owners and Operators
 
 
