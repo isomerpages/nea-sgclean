@@ -8,7 +8,7 @@ third_nav_title: For Individuals
   <img src="/images/kids.jpg">
 </p>
 
-# [Let's do our part!](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/7hygienehabits-english.pdf)
+# [Let's do our part!](https://nea-sgclean-staging.netlify.com/files/english.pdf)
 
 #### Everyone can play a part in keeping themselves and others around them safe by adopting good personal habits. NEA has been encouraging “[7 Habits of Good Public Hygiene](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/7hygienehabits-english.pdf)", which include:
 
