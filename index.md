@@ -6,16 +6,16 @@ image: /images/handwash2.jpg
 permalink: /
 sections:
     - hero:
-        title: Let's Join Hands to Keep Singapore Clean
+        title: Let's Do Our Part
         subtitle: SG Clean Campaign
         background: /images/handwash2.jpg
         button: Learn More
         url: /About/
         key_highlights:
             - title: JOIN THE CAMPAIGN
-              url: /join/how-to-be-certified/
-            - title: CERTIFIED PREMISES
-              url: /join/certified-premises/
+              url: /join/for-individuals/
+            - title: GET CERTIFIED
+              url: /join/for-owners/certified-premises/
             - title: RESOURCES
               url: /resources/advisories/
     - infopic:
@@ -23,7 +23,7 @@ sections:
         subtitle:  
         description: These are simple, everyday steps that everyone can take to improve our hygiene standards.
         button: Adopt the 7 habits here
-        url: /resources/advisories/
+        url: /resources/posters/
         image: /images/tablewipe.jpg
         alt: Adopt the 7 habits of good public hygiene
     - infopic:
@@ -31,7 +31,7 @@ sections:
         subtitle:
         description: Organisations from specific sectors that commit to upholding good sanitation and hygiene practices can be assessed and certified with the SG Clean quality mark.
         button: Find out how
-        url: /join/how-to-be-certified/
+        url: /join/for-owners/how-to-be-certified/
         image: /images/min-pasting-sticker2.jpg
         alt: SG Clean quality mark
     - resources:
