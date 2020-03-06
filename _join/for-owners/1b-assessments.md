@@ -121,6 +121,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**(to be updated)**]()
 
+**Contact STB:**
+STB_feedback@stb.gov.sg
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -206,6 +209,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**(to be updated)**]()
 
+**Contact STB:**
+STB_feedback@stb.gov.sg
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -222,6 +228,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 ### Tourist Attractions
 
 [**(to be updated)**]()
+
+**Contact STB:**
+STB_feedback@stb.gov.sg
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -240,6 +249,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**(to be updated)**]()
 
+**Contact STB:**
+STB_feedback@stb.gov.sg
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -256,6 +268,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 ### Sentosa
 
 [**(to be updated)**]()
+
+**Contact STB:**
+STB_feedback@stb.gov.sg
 
 <br><br><br><br><br><br><br><br><br><br>
 
