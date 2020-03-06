@@ -53,6 +53,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**Transport nodes checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
 
+**Contact NEA:**
+e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -69,6 +72,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 ### Schools
 
 [**Schools checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
+
+**Contact NEA:**
+e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -87,6 +93,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**Early childhood facilities checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
 
+**Contact NEA:**
+e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -103,6 +112,9 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 ### Government-occupied Premises
 
 [**Government-occupied checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
+
+**Contact NEA:**
+e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -141,6 +153,9 @@ STB_feedback@stb.gov.sg
 
 [**Shopping malls and developers checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-shopping.pdf)
 
+**Contact NEA:**
+e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -157,6 +172,9 @@ STB_feedback@stb.gov.sg
 ### Retail and Shops
 
 [**Retail and shops checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-retail.pdf)
+
+**Contact NEA:**
+e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -175,6 +193,9 @@ STB_feedback@stb.gov.sg
 
 [**Food Establishments (to be updated)**](https://nea-sgclean-staging.netlify.com/files/checklist-fandb.pdf)
 
+**Contact NEA:**
+e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -191,6 +212,9 @@ STB_feedback@stb.gov.sg
 ### MICE venues
 
 [**(to be updated)**]()
+
+**Contact STB:**
+STB_feedback@stb.gov.sg
 
 <br><br><br><br><br><br><br><br><br><br>
 
