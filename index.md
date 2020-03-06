@@ -24,7 +24,7 @@ sections:
         description: These are simple, everyday steps that everyone can take to improve our hygiene standards.
         button: Adopt the 7 habits here
         url: /resources/posters/
-        image: /images/toilet.jpg
+        image: /images/handwash.jpg
         alt: Adopt the 7 habits of good public hygiene
     - infopic:
         title: The SG Clean quality mark
