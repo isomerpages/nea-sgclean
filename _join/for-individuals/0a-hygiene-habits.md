@@ -4,13 +4,10 @@ permalink: /join/for-individuals/
 third_nav_title: For Individuals
 ---
 
-<p align="center">
-  <img src="/images/kids.jpg">
-</p>
+![Let's do our part](/images/kids.jpg)
 
-# [Let's do our part!](https://nea-sgclean-staging.netlify.com/files/english.pdf)
 
-#### Everyone can play a part in keeping themselves and others around them safe by adopting good personal habits. NEA has been encouraging “[7 Habits of Good Public Hygiene](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/7hygienehabits-english.pdf)", which include:
+### Everyone [can play a part](https://nea-sgclean-staging.netlify.com/files/english.pdf) in keeping themselves and others around them safe by adopting good personal habits. NEA has been encouraging “[7 Habits of Good Public Hygiene](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/7hygienehabits-english.pdf)", which include:
 
 1. Washing hands frequently with soap and taking temperature daily.
 
