@@ -4,9 +4,10 @@ permalink: /resources/advisories/
 ---
 
 ### ADVISORIES
----
 
 > *Premises owners or operators of **specific sectors**, you may download more specific advisories [**here**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators).*
+
+---
 
 #### General Sanitation and Hygiene Advisory for Premises Owners and Operators
 
