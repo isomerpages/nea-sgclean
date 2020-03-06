@@ -14,8 +14,8 @@ sections:
         key_highlights:
             - title: JOIN THE CAMPAIGN
               url: /join/for-individuals/
-            - title: GET CERTIFIED
-              url: /join/for-owners/certified-premises/
+            - title: SG CLEAN QUALITY MARK
+              url: /join/for-owners/how-to-get-certified/
             - title: RESOURCES
               url: /resources/advisories/
     - infopic:
