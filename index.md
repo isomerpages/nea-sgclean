@@ -8,7 +8,7 @@ sections:
     - hero:
         title: Let's Do Our Part
         subtitle: SG Clean Campaign
-        background: /images/handwash2.jpg
+        background: /images/tablewipe2.jpg
         button: Learn More
         url: /About/
         key_highlights:
@@ -24,7 +24,7 @@ sections:
         description: These are simple, everyday steps that everyone can take to improve our hygiene standards.
         button: Adopt the 7 habits here
         url: /resources/posters/
-        image: /images/tablewipe.jpg
+        image: /images/toilet.jpg
         alt: Adopt the 7 habits of good public hygiene
     - infopic:
         title: The SG Clean quality mark
