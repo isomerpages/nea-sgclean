@@ -29,9 +29,13 @@ third_nav_title: For Owners of Premises
 
 <a name="hawker"></a>
 ### Hawker Centres
-![List of Hawker Centres awarded SG Clean](/join/for-owners/list-hawker.pdf)
 
-<br><br><br><br><br><br><br><br>
+[**Hawker centres checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-hawker.pdf)
+
+**Contact NEA:**
+e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -46,7 +50,7 @@ third_nav_title: For Owners of Premises
 <a name="transport"></a>
 ### Transport Nodes
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -61,7 +65,7 @@ third_nav_title: For Owners of Premises
 <a name="schools"></a>
 ### Schools
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -76,7 +80,7 @@ third_nav_title: For Owners of Premises
 <a name="early"></a>
 ### Early Childhood Facilities
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -91,7 +95,7 @@ third_nav_title: For Owners of Premises
 <a name="government"></a>
 ### Government-occupied Premises
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -106,7 +110,7 @@ third_nav_title: For Owners of Premises
 <a name="hotels"></a>
 ### Hotels
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -121,7 +125,7 @@ third_nav_title: For Owners of Premises
 <a name="shopping"></a>
 ### Shopping Malls
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -136,7 +140,7 @@ third_nav_title: For Owners of Premises
 <a name="retail"></a>
 ### Retail
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -151,7 +155,7 @@ third_nav_title: For Owners of Premises
 <a name="food"></a>
 ### Food Establishments
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -166,7 +170,7 @@ third_nav_title: For Owners of Premises
 <a name="mice"></a>
 ### MICE venues
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -181,7 +185,7 @@ third_nav_title: For Owners of Premises
 <a name="integrated"></a>
 ### Integrated Resorts
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -196,7 +200,7 @@ third_nav_title: For Owners of Premises
 <a name="tourist"></a>
 ### Tourist Attractions
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -211,7 +215,7 @@ third_nav_title: For Owners of Premises
 <a name="cruise"></a>
 ### Cruise Terminals
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -226,6 +230,7 @@ third_nav_title: For Owners of Premises
 <a name="sentosa"></a>
 ### Sentosa
 
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
