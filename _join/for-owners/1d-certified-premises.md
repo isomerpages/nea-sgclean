@@ -7,22 +7,6 @@ third_nav_title: For Owners of Premises
 ## Certified Premises
 
 
-**[Hawker Centres](#hawker) <br>
-[Schools](#schools) <br>
-[Transport Nodes](#transport) <br>
-[Early Childhood Facilities](#early) <br>
-[Government-occupied Premises](#government) <br>
-[Hotels](#hotels) <br>
-[Shopping Malls](#shopping) <br>
-[Retail](#retail) <br>
-[Food Establishments](#food) <br>
-[MICE Venues](#mice) <br>
-[Integrated Resorts](#integrated) <br>
-[Tourist Attractions](#tourist) <br>
-[Cruise Terminals](#cruise)**
-
-
----
 <a name="hawker"></a>
 ### Hawker Centres
 [List of Hawker Centres awarded SG Clean](/join/list-hawker.pdf)
