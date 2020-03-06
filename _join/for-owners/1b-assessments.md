@@ -7,19 +7,18 @@ third_nav_title: For Owners of Premises
 ## Select the category or sector that you most closely belong to:
 
 ---
-**[Hawker Centres](../for-owners/hawker.md) <br>
-[Schools](../for-owners/schools.md) <br>
-[Transport Nodes](../for-owners/transport.md) <br>
-[Early Childhood Facilities](../for-owners/early.md) <br>
-[Government-occupied Premises](../for-owners/government.md) <br>
-[Hotels](../for-owners/hotels.md) <br>
-[Shopping Malls / Developers](../for-owners/shopping.md) <br>
-[Retail / Shops](../for-owners/retail.md) <br>
-[Food Establishments / Restaurants](../for-owners/food.md) <br>
-[MICE Venues](../for-owners/mice.md) <br>
-[Integrated Resorts](../for-owners/integrated.md) <br>
-[Tourist Attractions](../for-owners/tourist.md) <br>
-[Cruise Terminals](../for-owners/cruise.md) <br>
-[Sentosa](../for-owners/sentosa.md) <br>
-**
+[Hawker Centres](../hawker.md) <br>
+[Schools](../schools.md) <br>
+[Transport Nodes](../transport.md) <br>
+[Early Childhood Facilities](../early.md) <br>
+[Government-occupied Premises](../government.md) <br>
+[Hotels](../hotels.md) <br>
+[Shopping Malls / Developers](../shopping.md) <br>
+[Retail / Shops](../retail.md) <br>
+[Food Establishments / Restaurants](../food.md) <br>
+[MICE Venues](../mice.md) <br>
+[Integrated Resorts](../integrated.md) <br>
+[Tourist Attractions](../tourist.md) <br>
+[Cruise Terminals](../cruise.md) <br>
+[Sentosa](../sentosa.md) <br>
 
