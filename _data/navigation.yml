@@ -13,6 +13,9 @@ links:
     collection: join
   - title: Resources
     collection: resources
+        sublinks:
+      - title: Advisories
+        url: https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories
   - title: FAQs
     url: /faq/
   - title: Media
