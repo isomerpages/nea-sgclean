@@ -25,7 +25,7 @@ third_nav_title: For Owners of Premises
 ---
 <a name="hawker"></a>
 ### Hawker Centres
-![List of Hawker Centres awarded SG Clean](/join/for-owners/list-hawker.pdf)
+[List of Hawker Centres awarded SG Clean](/join/for-owners/list-hawker.pdf)
 
 <a name="transport"></a>
 ### Transport Nodes
