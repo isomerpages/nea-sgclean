@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         title: Let's Do Our Part
-        subtitle: to keep Singapore clean
+        subtitle: To Keep Singapore Clean
         background: /images/tablewipe2.jpg
         button: Learn More
         url: /About/
@@ -15,7 +15,7 @@ sections:
             - title: JOIN THE CAMPAIGN
               url: /join/for-individuals/
             - title: SG CLEAN QUALITY MARK
-              url: /join/for-owners/how-to-get-certified/
+              url: /join/for-owners/how-to-be-certified/
             - title: RESOURCES
               url: /resources/advisories/
     - infopic:
