@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sample post 2 for Media Releases
+title:  JOINT NEWS RELEASE BETWEEN NEA, SFA, ESG, STB, MOE, MSF, ECDA AND MOT 
 permalink: /media/media-releases/joint-news-release
 ---
 
