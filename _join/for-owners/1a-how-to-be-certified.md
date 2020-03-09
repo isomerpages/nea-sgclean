@@ -16,7 +16,7 @@ third_nav_title: For Owners of Premises
 You may obtain the relevant checklist(s) for your premise(s) according to sectors **[here](../assessments)**.
 
 
-**2. Contact relevant agency to arrange assessment when ready**
+**2. Contact relevant agency/appointed assessor to arrange assessment when ready**
 
 
 The respective agencies and/or their appointed assessors will be able to arrange and provide details for the assessment.
