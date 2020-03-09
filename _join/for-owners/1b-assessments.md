@@ -1,5 +1,5 @@
 ---
-title: Assessements by Sectors
+title: Assessments by Sectors
 permalink: /join/for-owners/assessments/
 third_nav_title: For Owners of Premises
 ---
@@ -33,8 +33,7 @@ third_nav_title: For Owners of Premises
 [**Hawker centres common area checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-hawker.pdf)<br>
 [**Hawker centres food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)
 
-**Contact NEA:**
-e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -53,8 +52,7 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**Transport nodes checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
 
-**Contact NEA:**
-e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -73,8 +71,7 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**Schools checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
 
-**Contact NEA:**
-e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -93,8 +90,7 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**Early childhood facilities checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
 
-**Contact NEA:**
-e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -113,8 +109,7 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**Government-occupied checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
 
-**Contact NEA:**
-e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -153,8 +148,7 @@ STB_feedback@stb.gov.sg
 
 [**Shopping malls and developers checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-shopping.pdf)
 
-**Contact NEA:**
-e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -173,8 +167,7 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**Retail and shops checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-retail.pdf)
 
-**Contact NEA:**
-e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -193,8 +186,7 @@ e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
 
 [**Food Establishments (to be updated)**](https://nea-sgclean-staging.netlify.com/files/checklist-fandb.pdf)
 
-**Contact NEA:**
-e-services (www.eportal.nea.gov.sg) or call the NEA hotline (6225-5632)
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
