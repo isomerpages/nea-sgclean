@@ -9,6 +9,7 @@ third_nav_title: For Owners of Premises
 
 <a name="top"></a>
 **[Hawker Centres](#hawker) <br>
+[Coffeeshops & Canteens](#coffee) <br>
 [Schools](#schools) <br>
 [Transport Nodes](#transport) <br>
 [Early Childhood Facilities](#early) <br>
@@ -25,7 +26,7 @@ third_nav_title: For Owners of Premises
 
 
 
----
+------
 
 <a name="hawker"></a>
 ### Hawker Centres
@@ -45,7 +46,27 @@ third_nav_title: For Owners of Premises
 
 [^ back to top](#top)
 
-------
+---
+
+<a name="coffee"></a>
+### Coffeeshops & Canteens
+
+[**Common area checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-hawker.pdf)<br>
+[**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)
+
+**[Contact SFA](https://www.sfa.gov.sg/contact-us/sfa-headquarters)**
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+[^ back to top](#top)
+
+---
 
 <a name="transport"></a>
 ### Transport Nodes
