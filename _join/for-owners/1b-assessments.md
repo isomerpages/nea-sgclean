@@ -45,7 +45,7 @@ third_nav_title: For Owners of Premises
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -66,7 +66,7 @@ third_nav_title: For Owners of Premises
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -86,7 +86,7 @@ third_nav_title: For Owners of Premises
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -106,7 +106,7 @@ third_nav_title: For Owners of Premises
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -126,7 +126,7 @@ third_nav_title: For Owners of Premises
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -146,7 +146,7 @@ third_nav_title: For Owners of Premises
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -169,7 +169,7 @@ STB_feedback@stb.gov.sg
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -189,7 +189,7 @@ STB_feedback@stb.gov.sg
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -209,7 +209,7 @@ STB_feedback@stb.gov.sg
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -227,7 +227,7 @@ STB_feedback@stb.gov.sg
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -250,7 +250,7 @@ STB_feedback@stb.gov.sg
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -273,7 +273,7 @@ STB_feedback@stb.gov.sg
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -296,7 +296,7 @@ STB_feedback@stb.gov.sg
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -319,7 +319,7 @@ STB_feedback@stb.gov.sg
 
 
 
-[^ back to top](#top)
+[back to top](#top)
 
 ---
 
@@ -336,6 +336,7 @@ STB_feedback@stb.gov.sg
 
 <br><br><br><br><br><br><br><br><br><br>
 
+[back to top](#top)
 
 
 
