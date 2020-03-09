@@ -8,6 +8,7 @@ third_nav_title: For Owners of Premises
 
 **The assessment is based on a checklist of requirements for sanitation and hygiene standards.** <br>
 
+
 ![SG Clean](/images/stallbanner.jpg)
 
 ### What do I need to do?
