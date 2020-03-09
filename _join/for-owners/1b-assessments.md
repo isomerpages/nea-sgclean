@@ -31,8 +31,8 @@ third_nav_title: For Owners of Premises
 <a name="hawker"></a>
 ### Hawker Centres
 
-[**Hawker centres common area checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-hawker.pdf)<br>
-[**Hawker centres food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)
+[**Common area checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-hawker.pdf)<br>
+[**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)<br>
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
@@ -52,7 +52,7 @@ third_nav_title: For Owners of Premises
 ### Coffeeshops & Canteens
 
 [**Common area checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-hawker.pdf)<br>
-[**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)
+[**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)<br>
 
 **[Contact SFA](https://www.sfa.gov.sg/contact-us/sfa-headquarters)**
 
@@ -71,7 +71,7 @@ third_nav_title: For Owners of Premises
 <a name="transport"></a>
 ### Transport Nodes
 
-[**Transport nodes checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
+[**Transport nodes checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br>
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
@@ -90,7 +90,7 @@ third_nav_title: For Owners of Premises
 <a name="schools"></a>
 ### Schools
 
-[**Schools checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
+[**Schools checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br>
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
@@ -109,7 +109,7 @@ third_nav_title: For Owners of Premises
 <a name="early"></a>
 ### Early Childhood Facilities
 
-[**Early childhood facilities checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
+[**Early childhood facilities checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br>
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
@@ -128,7 +128,7 @@ third_nav_title: For Owners of Premises
 <a name="government"></a>
 ### Government-occupied Premises
 
-[**Government-occupied checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)
+[**Government-occupied checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br>
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
@@ -147,7 +147,9 @@ third_nav_title: For Owners of Premises
 <a name="hotels"></a>
 ### Hotels
 
-[**(to be updated)**]()
+[**(Checklist to be updated)**]()<br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
@@ -167,7 +169,9 @@ STB_feedback@stb.gov.sg
 <a name="shopping"></a>
 ### Shopping Malls and Developers
 
-[**Shopping malls and developers checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-shopping.pdf)
+[**Shopping malls and developers checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-shopping.pdf)<br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -184,7 +188,9 @@ STB_feedback@stb.gov.sg
 <a name="retail"></a>
 ### Retail and Shops
 
-[**Retail and shops checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-retail.pdf)
+[**Retail and shops checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-retail.pdf)<br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -201,7 +207,7 @@ STB_feedback@stb.gov.sg
 <a name="food"></a>
 ### Food Establishments
 
-[**Food Establishments (to be updated)**](https://nea-sgclean-staging.netlify.com/files/checklist-fandb.pdf)
+[**Food Establishments (to be updated)**](https://nea-sgclean-staging.netlify.com/files/checklist-fandb.pdf)<br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -218,7 +224,9 @@ STB_feedback@stb.gov.sg
 <a name="mice"></a>
 ### MICE venues
 
-[**(to be updated)**]()
+[**(Checklist to be updated)**]()<br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
@@ -238,7 +246,9 @@ STB_feedback@stb.gov.sg
 <a name="integrated"></a>
 ### Integrated Resorts
 
-[**(to be updated)**]()
+[**(Checklist to be updated)**]()<br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
@@ -258,7 +268,9 @@ STB_feedback@stb.gov.sg
 <a name="tourist"></a>
 ### Tourist Attractions
 
-[**(to be updated)**]()
+[**(Checklist to be updated)**]()<br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
@@ -278,7 +290,9 @@ STB_feedback@stb.gov.sg
 <a name="cruise"></a>
 ### Cruise Terminals
 
-[**(to be updated)**]()
+[**(Checklist to be updated)**]()<br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
@@ -298,7 +312,9 @@ STB_feedback@stb.gov.sg
 <a name="sentosa"></a>
 ### Sentosa
 
-[**(to be updated)**]()
+[**(Checklist to be updated)**]()<br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
