@@ -30,13 +30,15 @@ Members of the public are encouraged to adopt the following “seven habits” o
 
 Those with the **SG Clean quality mark** will have their premises audited by agencies or appointed third-party assessors, and will have to commit and adhere to sector-specific sanitation and hygiene checklists, covering areas such as management oversight, cleaning methodology, toilet cleanliness, and general public hygiene.  
   
-The **SG Clean quality mark** will first be rolled out to hawker centres, and will be progressively rolled out to various sectors, covering premises with high human traffic such as:  
+The **SG Clean quality mark** will be progressively rolled out to various sectors, covering premises with high human traffic such as:
+
+
+- markets and hawker centres,
+- schools, preschools,
 - train stations and bus interchanges,  
-- preschools, schools,  
 - government buildings,  
 - hotels, conference venues, tourist attractions,  
 - cruise and ferry terminals, airport terminals,  
-- the integrated resorts,  
 - shopping malls and F&B outlets.
 
 ## Ground-up efforts
@@ -48,5 +50,3 @@ Grassroots organisations (GROs) and Non-Governmental Organisations (NGOs) such a
 While the SG Clean campaign will help to reduce any public health risks from the current COVID-19 situation, the longer-term objective is to instil greater awareness of good hygiene and cleaning practices, and to ensure that these are sustained at high levels beyond the current outbreak of COVID-19.  
   
 Through collective action by all stakeholders, we can contribute towards safeguarding public health and making Singapore a cleaner, more liveable and pleasant environment for all.
-
-#### More questions? Read our [FAQ](../faq/).
