@@ -48,7 +48,7 @@ The **SG Clean quality mark** will be progressively rolled out to various sector
 Grassroots organisations (GROs) and Non-Governmental Organisations (NGOs) such as the Public Hygiene Council (PHC), Restroom Association of Singapore (RAS), and the Singapore Kindness Movement (SKM) are also supporting with rallying the community to take ownership and commit to upholding good personal and environmental hygiene practices.
 
 
-**Adjusting Social Norms, Sustaining Good Habits**
+## Adjusting Social Norms, Sustaining Good Habits
 
 To help prevent community spread of COVID-19, it has been necessary to make adjustments to social norms in Singapore. For instance, many have refrained from shaking hands during this period. The SG Clean Taskforce will also encourage people to use serving spoons when sharing food, eat from trays and return trays in public dining places, and to keep their tables clean. 
 
