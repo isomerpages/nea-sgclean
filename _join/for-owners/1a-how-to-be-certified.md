@@ -8,10 +8,7 @@ third_nav_title: For Owners of Premises
 
 **The assessment is based on a checklist of requirements for sanitation and hygiene standards.** <br>
 
-
-![SG Clean](/images/stallbanner.jpg)
-
-### What do I need to do?
+> ### What do I need to do?
 
 **1. Obtain checklist and ensure requirements are met**<br>
 
@@ -35,3 +32,6 @@ If all the requirements in the checklist are met, the SG CLEAN quality mark and 
 
 
 If lapses are detected at your premises, the appointed assessors will make known the lapses and will advise you to carry out the necessary rectification work. Once the rectification work has been carried out, contact the respective agencies and/or appointed assessor for a re-assessment. 
+
+![SG Clean](/images/stallbanner.jpg)
+
