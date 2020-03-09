@@ -1,5 +1,5 @@
 ---
-title: About
+title: What is SG Clean?
 permalink: /about/
 ---
 
