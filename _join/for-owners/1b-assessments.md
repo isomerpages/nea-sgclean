@@ -33,6 +33,7 @@ third_nav_title: For Owners of Premises
 
 [**Common area checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-hawker.pdf)<br>
 [**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
@@ -53,6 +54,7 @@ third_nav_title: For Owners of Premises
 
 [**Common area checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-hawker.pdf)<br>
 [**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **[Contact SFA](https://www.sfa.gov.sg/contact-us/sfa-headquarters)**
 
@@ -72,6 +74,7 @@ third_nav_title: For Owners of Premises
 ### Transport Nodes
 
 [**Transport nodes checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
@@ -91,6 +94,7 @@ third_nav_title: For Owners of Premises
 ### Schools
 
 [**Schools checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
@@ -110,6 +114,7 @@ third_nav_title: For Owners of Premises
 ### Early Childhood Facilities
 
 [**Early childhood facilities checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
@@ -129,6 +134,7 @@ third_nav_title: For Owners of Premises
 ### Government-occupied Premises
 
 [**Government-occupied checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
@@ -150,6 +156,7 @@ third_nav_title: For Owners of Premises
 [**(Checklist to be updated)**]()<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
@@ -172,6 +179,7 @@ STB_feedback@stb.gov.sg
 [**Shopping malls and developers checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-shopping.pdf)<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -191,6 +199,7 @@ STB_feedback@stb.gov.sg
 [**Retail and shops checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-retail.pdf)<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -208,6 +217,7 @@ STB_feedback@stb.gov.sg
 ### Food Establishments
 
 [**Food Establishments (to be updated)**](https://nea-sgclean-staging.netlify.com/files/checklist-fandb.pdf)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -227,6 +237,7 @@ STB_feedback@stb.gov.sg
 [**(Checklist to be updated)**]()<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
@@ -249,6 +260,7 @@ STB_feedback@stb.gov.sg
 [**(Checklist to be updated)**]()<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
@@ -271,6 +283,7 @@ STB_feedback@stb.gov.sg
 [**(Checklist to be updated)**]()<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
@@ -293,6 +306,7 @@ STB_feedback@stb.gov.sg
 [**(Checklist to be updated)**]()<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
@@ -315,6 +329,7 @@ STB_feedback@stb.gov.sg
 [**(Checklist to be updated)**]()<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 **Contact STB:**
 STB_feedback@stb.gov.sg
