@@ -27,6 +27,10 @@ Everyone can play a part in keeping themselves and others around them safe by ad
 - Using a tissue whenever sneezing or coughing, and binning own litter and soiled tissues. This will prevent individuals from adversely affecting the health and well-being of family, friends, colleagues and those around them.
 - Keeping public toilets clean and dry. This will reduce the risk of spreading diseases and viruses such as COVID-19 and dengue within the community.
 
+**Ground-up efforts**
+
+Grassroots organisations (GROs) and Non-Governmental Organisations (NGOs) such as the Public Hygiene Council (PHC), Restroom Association of Singapore (RAS), and the Singapore Kindness Movement (SKM) are also supporting with rallying the community to take ownership and commit to upholding good personal and environmental hygiene practices.
+
 
 ## The SG Clean Quality Mark
 
@@ -42,10 +46,6 @@ The **SG Clean quality mark** will be progressively rolled out to various sector
 - cruise and ferry terminals, airport terminals,  
 - shopping malls and F&B outlets.
 
-
-## Ground-up efforts
-
-Grassroots organisations (GROs) and Non-Governmental Organisations (NGOs) such as the Public Hygiene Council (PHC), Restroom Association of Singapore (RAS), and the Singapore Kindness Movement (SKM) are also supporting with rallying the community to take ownership and commit to upholding good personal and environmental hygiene practices.
 
 
 ## Adjusting Social Norms, Sustaining Good Habits
