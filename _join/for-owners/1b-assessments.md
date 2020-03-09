@@ -7,7 +7,7 @@ third_nav_title: For Owners of Premises
 ## Select the category or sector that you most closely belong to:
 
 
-
+<a name="top"></a>
 **[Hawker Centres](#hawker) <br>
 [Schools](#schools) <br>
 [Transport Nodes](#transport) <br>
@@ -20,7 +20,7 @@ third_nav_title: For Owners of Premises
 [MICE Venues](#mice) <br>
 [Integrated Resorts](#integrated) <br>
 [Tourist Attractions](#tourist) <br>
-[Cruise Terminals](#cruise)
+[Cruise Terminals](#cruise) <br>
 [Sentosa](#sentosa)**
 
 
@@ -43,7 +43,7 @@ third_nav_title: For Owners of Premises
 
 
 
-
+[^ back to top](#top)
 
 ------
 
@@ -62,7 +62,7 @@ third_nav_title: For Owners of Premises
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -81,7 +81,7 @@ third_nav_title: For Owners of Premises
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -100,7 +100,7 @@ third_nav_title: For Owners of Premises
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -119,7 +119,7 @@ third_nav_title: For Owners of Premises
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -139,7 +139,7 @@ STB_feedback@stb.gov.sg
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -156,7 +156,7 @@ STB_feedback@stb.gov.sg
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -173,7 +173,7 @@ STB_feedback@stb.gov.sg
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -190,7 +190,7 @@ STB_feedback@stb.gov.sg
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -210,7 +210,7 @@ STB_feedback@stb.gov.sg
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -230,7 +230,7 @@ STB_feedback@stb.gov.sg
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -250,7 +250,7 @@ STB_feedback@stb.gov.sg
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -270,7 +270,7 @@ STB_feedback@stb.gov.sg
 
 
 
-
+[^ back to top](#top)
 
 ---
 
@@ -292,4 +292,4 @@ STB_feedback@stb.gov.sg
 
 
 
-
+[^ back to top](#top)
