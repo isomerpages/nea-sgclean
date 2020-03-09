@@ -5,9 +5,7 @@ permalink: /resources/posters/
 
 ### Posters
 
-[7 Habits of Good Public Hygiene](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/7hygienehabits-english.pdf)<br>
-
-Let's Do Our Part (Infographic) <br>
+Let's Do Our Part to Keep Singapore Clean (Infographic) <br>
 
 [English](https://nea-sgclean-staging.netlify.com/files/english.pdf) | 
 [Chinese](https://nea-sgclean-staging.netlify.com/files/chinese.pdf) |
@@ -16,4 +14,4 @@ Let's Do Our Part (Infographic) <br>
 
 ---
 
-#### Others
+[7 Habits of Good Public Hygiene](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/7hygienehabits-english.pdf)<br>
