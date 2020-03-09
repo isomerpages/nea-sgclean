@@ -6,8 +6,8 @@ image: /images/handwash2.jpg
 permalink: /
 sections:
     - hero:
-        title: Let's Do Our Part
-        subtitle: To Keep Singapore Clean
+        title: Let's Do Our Part to Keep SG Clean
+        subtitle: 
         background: /images/tablewipe2.jpg
         button: Learn More
         url: /About/
