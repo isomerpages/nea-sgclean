@@ -15,3 +15,7 @@ Let's Do Our Part to Keep Singapore Clean (Infographic) <br>
 ---
 
 [7 Habits of Good Public Hygiene](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/7hygienehabits-english.pdf)<br>
+
+---
+
+[Interim Guidelines for Cleaning and Disinfection of COVID-19 in Residences ](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/interim-guidelines-for-residences-english.pdf)<br>
