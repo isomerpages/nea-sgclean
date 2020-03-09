@@ -12,4 +12,5 @@ third_nav_title: For Individuals
 
 **You can view and share more resources [here](/resources/posters).** 
 
-![Let's do our part](/images/posterbanner.jpg)
+![Let's do our part](/images/posterbanner.png)
+
