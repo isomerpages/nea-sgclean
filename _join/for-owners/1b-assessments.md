@@ -148,8 +148,6 @@ STB_feedback@stb.gov.sg
 
 [**Shopping malls and developers checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-shopping.pdf)
 
-**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
-
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -167,8 +165,6 @@ STB_feedback@stb.gov.sg
 
 [**Retail and shops checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-retail.pdf)
 
-**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
-
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -185,8 +181,6 @@ STB_feedback@stb.gov.sg
 ### Food Establishments
 
 [**Food Establishments (to be updated)**](https://nea-sgclean-staging.netlify.com/files/checklist-fandb.pdf)
-
-**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
