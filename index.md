@@ -1,35 +1,41 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: SG Clean
+description: 
+image: /images/handwash2.jpg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: Let's Do Our Part to Keep SG Clean
+        subtitle: 
+        background: /images/tablewipe2.jpg
+        button: Learn More
+        url: /About/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+            - title: JOIN THE CAMPAIGN
+              url: /join/for-individuals/
+            - title: SG CLEAN QUALITY MARK
+              url: /join/for-owners/how-to-be-certified/
+            - title: RESOURCES
+              url: /resources/advisories/
+    - infopic:
+        title: Practise the 7 habits of good public hygiene
+        subtitle:  
+        description: These are simple, everyday steps that everyone can take to improve our hygiene standards.
+        button: Adopt the 7 habits here
+        url: /resources/posters/
+        image: /images/handwash.jpg
+        alt: Adopt the 7 habits of good public hygiene
+    - infopic:
+        title: The SG Clean quality mark
+        subtitle:
+        description: Organisations from specific sectors that commit to upholding good sanitation and hygiene practices can be assessed and certified with the SG Clean quality mark.
+        button: Find out how
+        url: /join/for-owners/how-to-be-certified/
+        image: /images/min-pasting-sticker2.jpg
+        alt: SG Clean quality mark
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: Latest News
+        subtitle:
         button: View More
 ---

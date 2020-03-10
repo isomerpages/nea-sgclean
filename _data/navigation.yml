@@ -4,16 +4,16 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/sgcleanlogo.jpg
 
 links:
-  - title: Faq
-    url: /faq/
-  - title: About
-    collection: about
-  - title: Checklists
-    collection: checklists
+  - title: What is SG Clean?
+    url: /about/
+  - title: Join the Campaign
+    collection: join
   - title: Resources
     collection: resources
+ # - title: FAQs
+ #   url: /faq/
   - title: Media
     resource_room: true
