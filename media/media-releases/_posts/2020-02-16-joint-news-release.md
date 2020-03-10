@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  JOINT NEWS RELEASE BETWEEN NEA, SFA, ESG, STB, MOE, MSF, ECDA AND MOT 
+title:  Joint new release between NEA, SFA, ESG, STB, MOE, MSF, ECDA AND MOT 
 permalink: /media/media-releases/joint-news-release
 ---
 
