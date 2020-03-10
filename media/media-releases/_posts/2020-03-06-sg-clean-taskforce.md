@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SG CLEAN TASKFORCE TO GALVANISE COLLECTIVE ACTION TO RAISE STANDARDS OF HYGIENE AND CLEANLINESS IN SINGAPORE
+title:  SG Clean Taskforce to galvanise collective action to raise standards of hygiene and cleanliness in Singapore
 permalink: /media/media-releases/sg-clean-taskforce/
 ---
 MEDIA RELEASE
