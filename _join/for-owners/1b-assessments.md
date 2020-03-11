@@ -311,7 +311,7 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 <a name="cruise"></a>
 ### Cruise Terminals
 
-[**(Checklist for Cruise Terminals)**](https://nea-sgclean-staging.netlify.com/files/checklist-cruise.pdf)<br>
+[**Checklist for Cruise Terminals**](https://nea-sgclean-staging.netlify.com/files/checklist-cruise.pdf)<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
