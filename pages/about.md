@@ -13,7 +13,7 @@ It is envisioned that the SG Clean campaign will instil a national “keep clean
 
 ![Getting SG Clean certified](/images/hawker1.jpg)
 
-#### For individuals
+#### For Individuals
 
 **Adjusting social norms, adopting good personal habits**
 
