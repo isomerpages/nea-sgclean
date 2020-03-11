@@ -7,21 +7,21 @@ permalink: /about/
   
 Launched on 16 Feb 2020, the campaign calls on members of the public to adopt good personal and environmental hygiene habits, to help keep Singapore clean. It also calls on organisations to adhere to sanitation and hygiene checklists by the authorities.  
 
-The SG Clean Taskforce, chaired by Mr Masagos Zulkifli, Minister for the Environment and Water Resources strives to instil a ‘keep Singapore clean’ culture, beyond the current COVID-19 outbreak. The Taskforce will drive and galvanise collective action to: 
+The SG Clean Taskforce, chaired by Mr Masagos Zulkifli, Minister for the Environment and Water Resources strives to instil a ‘keep Singapore clean’ culture, beyond the current COVID-19 outbreak. The Taskforce will drive and galvanise collective action to: <br>
 
-(a) ensure cleanliness of public spaces
-(b) encourage good personal hygiene
-(c) adjust social norms to reduce the spread of diseases  
+(a) encourage good personal hygiene <br>
+(b) adjust social norms to reduce the spread of diseases <br>
+(c) ensure cleanliness of public spaces <br>
 
 
 ![Getting SG Clean certified](/images/hawker1.jpg)
 
-> **“**Although Singapore is generally considered a clean and green city, we want to further step up cleanliness and hygiene standards in all facets of our lives, and make these our new norms, beyond the immediate COVID-19 situation. This will help keep our families and communities safe and healthy. Let us each practise good personal hygiene and social responsibility, and do our part to keep Singapore clean and safe**”** -Minister Masagos Zulkifli
+> "Although Singapore is generally considered a clean and green city, we want to further step up cleanliness and hygiene standards in all facets of our lives, and make these our new norms, beyond the immediate COVID-19 situation. This will help keep our families and communities safe and healthy. Let us each practise good personal hygiene and social responsibility, and do our part to keep Singapore clean and safe" - Minister Masagos Zulkifli
 
 
 ##  Adopting Good Personal Habits 
 
-Everyone can play a part in keeping themselves and others around them safe by adopting good personal habits. NEA has been encouraging “7 Habits of Good Public Hygiene", which include:
+Everyone can play a part in keeping themselves and others around them safe by adopting good personal habits. Everyone is encouraged to practise the “7 Habits of Good Public Hygiene", which include:
 
 - Washing hands frequently with soap and taking temperature daily.
 - Using a tissue whenever sneezing or coughing, and binning own litter and soiled tissues. This will prevent individuals from adversely affecting the health and well-being of family, friends, colleagues and those around them.
