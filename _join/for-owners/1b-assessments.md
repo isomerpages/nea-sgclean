@@ -16,14 +16,12 @@ third_nav_title: For Owners of Premises
 [Government-occupied Premises](#government) <br>
 [Hotels](#hotels) <br>
 [Shopping Malls](#shopping) <br>
-[Retail](#retail) <br>
-[Food Establishments](#food) <br>
+[Retail & Shops](#retail) <br>
+[F&B Establishments](#food) <br>
 [MICE Venues](#mice) <br>
 [Attractions](#attractions) <br>
-[Tourist Attractions](#svc) <br>
-[Cruise Terminals](#cruise) <br>
-[Sentosa](#sentosa)**
-
+[Singapore Visitor Centre](#svc) <br>
+[Cruise Terminals](#cruise)** <br>
 
 
 ------
@@ -182,9 +180,9 @@ third_nav_title: For Owners of Premises
 
 Please email SGClean@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
-(1) Establishment name
-(2) Industry
-(3) Outlet address and postal code
+(1) Establishment name <br>
+(2) Industry <br>
+(3) Outlet address and postal code <br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -208,9 +206,9 @@ Please email SGClean@enterprisesg.gov.sg with the following information, and we 
 
 Please email SGClean@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
-(1) Establishment name
-(2) Industry
-(3) Outlet address and postal code
+(1) Establishment name <br>
+(2) Industry <br>
+(3) Outlet address and postal code <br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -232,11 +230,11 @@ Please email SGClean@enterprisesg.gov.sg with the following information, and we 
 
 Please email SGClean@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
-(1) Establishment name
-(2) Industry
-(3) Outlet address and postal code
+(1) Establishment name <br>
+(2) Industry <br>
+(3) Outlet address and postal code <br>
 
-_If your premises are located within an Integrated Resort, Hotel, or Sentosa, please click [here](https://go.gov.sg/stb-sgclean-participation)
+_If your premises are located within an Integrated Resort, Hotel, or Sentosa, please click_ [here](https://go.gov.sg/stb-sgclean-participation)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -253,7 +251,7 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 <a name="mice"></a>
 ### MICE venues
 
-[**(Checklist for MICE venues)**](https://nea-sgclean-staging.netlify.com/files/checklist-mice.pdf)<br>
+[**Checklist for MICE venues**](https://nea-sgclean-staging.netlify.com/files/checklist-mice.pdf)<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
