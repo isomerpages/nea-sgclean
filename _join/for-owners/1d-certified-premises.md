@@ -23,7 +23,3 @@ _(Hotels, SVC, etc)_
 
 ### Retail Establishments
 [List of Tourism Establishments awarded SG Clean](/join/list-retail.pdf)
-
-### F&B Establishments
-[List of Tourism Establishments awarded SG Clean](/join/list-fandb.pdf)
-
