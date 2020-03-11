@@ -16,14 +16,12 @@ third_nav_title: For Owners of Premises
 [Government-occupied Premises](#government) <br>
 [Hotels](#hotels) <br>
 [Shopping Malls](#shopping) <br>
-[Retail](#retail) <br>
-[Food Establishments](#food) <br>
+[Retail & Shops](#retail) <br>
+[F&B Establishments](#food) <br>
 [MICE Venues](#mice) <br>
-[Integrated Resorts](#integrated) <br>
-[Tourist Attractions](#tourist) <br>
-[Cruise Terminals](#cruise) <br>
-[Sentosa](#sentosa)**
-
+[Attractions](#attractions) <br>
+[Singapore Visitor Centre](#svc) <br>
+[Cruise Terminals](#cruise)** <br>
 
 
 ------
@@ -153,13 +151,12 @@ third_nav_title: For Owners of Premises
 <a name="hotels"></a>
 ### Hotels
 
-[**(Checklist to be updated)**]()<br>
+[**Checklist for hotels**](https://nea-sgclean-staging.netlify.com/files/checklist-hotels.pdf)<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
-**Contact STB:**
-STB_feedback@stb.gov.sg
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -174,12 +171,18 @@ STB_feedback@stb.gov.sg
 ---
 
 <a name="shopping"></a>
-### Shopping Malls and Developers
+### Shopping Malls
 
-[**Shopping malls and developers checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-shopping.pdf)<br>
+[**Shopping malls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-shopping.pdf)<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
+
+Please email SGClean@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
+
+(1) Establishment name <br>
+(2) Industry <br>
+(3) Outlet address and postal code <br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -201,6 +204,12 @@ STB_feedback@stb.gov.sg
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
+Please email SGClean@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
+
+(1) Establishment name <br>
+(2) Industry <br>
+(3) Outlet address and postal code <br>
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -214,10 +223,18 @@ STB_feedback@stb.gov.sg
 ---
 
 <a name="food"></a>
-### Food Establishments
+### F&B Establishments
 
-[**Food Establishments (to be updated)**](https://nea-sgclean-staging.netlify.com/files/checklist-fandb.pdf)<br>
+[**F&B Establishments**](https://nea-sgclean-staging.netlify.com/files/checklist-fandb.pdf)<br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
+
+Please email SGClean@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
+
+(1) Establishment name <br>
+(2) Industry <br>
+(3) Outlet address and postal code <br>
+
+_If your premises are located within an Integrated Resort, Hotel, or Sentosa, please click_ [here](https://go.gov.sg/stb-sgclean-participation)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -234,13 +251,31 @@ STB_feedback@stb.gov.sg
 <a name="mice"></a>
 ### MICE venues
 
-[**(Checklist to be updated)**]()<br>
+[**Checklist for MICE venues**](https://nea-sgclean-staging.netlify.com/files/checklist-mice.pdf)<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
-**Contact STB:**
-STB_feedback@stb.gov.sg
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+[back to top](#top)
+
+---
+
+<a name="svc"></a>
+### Singapore Visitor Centres
+
+[**Checklist for SVC**](https://nea-sgclean-staging.netlify.com/files/checklist-svc.pdf)<br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
+
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -254,44 +289,17 @@ STB_feedback@stb.gov.sg
 
 ---
 
-<a name="integrated"></a>
-### Integrated Resorts
+<a name="attractions"></a>
+### Attractions Establishments
 
-[**(Checklist to be updated)**]()<br>
+[**Checklist for Attractions Establishments**](https://nea-sgclean-staging.netlify.com/files/checklist-attractions.pdf)<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
-**Contact STB:**
-STB_feedback@stb.gov.sg
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification
 
 <br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-
-
-
-[back to top](#top)
-
----
-
-<a name="tourist"></a>
-### Tourist Attractions
-
-[**(Checklist to be updated)**]()<br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
-[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
-[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
-
-**Contact STB:**
-STB_feedback@stb.gov.sg
-
-<br><br><br><br><br><br><br><br><br><br>
-
-
-
 
 
 
@@ -303,44 +311,14 @@ STB_feedback@stb.gov.sg
 <a name="cruise"></a>
 ### Cruise Terminals
 
-[**(Checklist to be updated)**]()<br>
+[**Checklist for Cruise Terminals**](https://nea-sgclean-staging.netlify.com/files/checklist-cruise.pdf)<br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
-**Contact STB:**
-STB_feedback@stb.gov.sg
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification
 
 <br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-
-
-
-[back to top](#top)
-
----
-
-<a name="sentosa"></a>
-### Sentosa
-
-[**(Checklist to be updated)**]()<br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
-[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
-[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
-
-**Contact STB:**
-STB_feedback@stb.gov.sg
-
-<br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-
-
 
 
 

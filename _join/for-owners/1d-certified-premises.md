@@ -7,42 +7,19 @@ third_nav_title: For Owners of Premises
 ## Certified Premises
 
 
-<a name="hawker"></a>
 ### Hawker Centres
-[List of Hawker Centres awarded SG Clean](/join/list-hawker.pdf)
+[List of hawker centres awarded SG Clean](/join/list-hawkers.pdf)
 
-<a name="transport"></a>
-### Transport Nodes
+### Coffeeshops
+[List of coffeeshops awarded SG Clean](/join/list-coffeeshops.pdf)
 
-<a name="schools"></a>
 ### Schools
+[List of schools awarded SG Clean](/join/list-schools.pdf)
 
-<a name="early"></a>
-### Early Childhood Facilities
+### Tourism Establishments
+_(Hotels, SVC, etc)_
 
-<a name="government"></a>
-### Government-occupied Premises
+[List of Tourism Establishments awarded SG Clean](/join/list-tourism.pdf)
 
-<a name="hotels"></a>
-### Hotels
-
-<a name="shopping"></a>
-### Shopping Malls
-
-<a name="retail"></a>
-### Retail
-
-<a name="food"></a>
-### Food Establishments
-
-<a name="mice"></a>
-### MICE venues
-
-<a name="integrated"></a>
-### Integrated Resorts
-
-<a name="tourist"></a>
-### Tourist Attractions
-
-<a name="cruise"></a>
-### Cruise Terminals
+### Retail Establishments
+[List of Tourism Establishments awarded SG Clean](/join/list-retail.pdf)

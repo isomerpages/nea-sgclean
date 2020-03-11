@@ -1,58 +1,39 @@
 ---
-title: What is SG Clean?
+title: About SG Clean
 permalink: /about/
 ---
 
-## SG Clean is a campaign to rally public and businesses to work together to keep Singapore clean.  
+### About SG Clean
+
+*Concerted action needed from everyone to elevate cleanliness and public hygiene standards and make them the new norms.*
   
-Launched on 16 Feb 2020, the campaign calls on members of the public to adopt good personal and environmental hygiene habits, to help keep Singapore clean. It also calls on organisations to adhere to sanitation and hygiene checklists by the authorities.  
+Launched on 16 February 2020 by the National Environment Agency (NEA), the SG Clean campaign seeks to rally stakeholders and members of the public to do their part, by adopting good personal habits and social responsibility, to raise standards of cleanliness and public hygiene in Singapore and safeguard public health.
 
-The SG Clean Taskforce, chaired by Mr Masagos Zulkifli, Minister for the Environment and Water Resources strives to instil a ‘keep Singapore clean’ culture, beyond the current COVID-19 outbreak. The Taskforce will drive and galvanise collective action to: 
-
-(a) ensure cleanliness of public spaces
-(b) encourage good personal hygiene
-(c) adjust social norms to reduce the spread of diseases  
-
+It is envisioned that the SG Clean campaign will instil a national “keep clean culture”, where keeping Singapore clean is an integral part of our lives.
 
 ![Getting SG Clean certified](/images/hawker1.jpg)
 
-> **“**Although Singapore is generally considered a clean and green city, we want to further step up cleanliness and hygiene standards in all facets of our lives, and make these our new norms, beyond the immediate COVID-19 situation. This will help keep our families and communities safe and healthy. Let us each practise good personal hygiene and social responsibility, and do our part to keep Singapore clean and safe**”** -Minister Masagos Zulkifli
+#### For Individuals
 
+**Adjusting social norms, adopting good personal habits**
 
-##  Adopting Good Personal Habits 
+To help prevent community spread of COVID-19, it has been necessary to make adjustments to social norms in Singapore.
 
-Everyone can play a part in keeping themselves and others around them safe by adopting good personal habits. NEA has been encouraging “7 Habits of Good Public Hygiene", which include:
+While the SG Clean campaign will help to reduce public health risks from the current COVID-19 situation, the longer-term objective is to instil greater awareness of good hygiene and cleaning practices, and to ensure that these are sustained at high levels beyond the current COVID-19 outbreak.
 
-- Washing hands frequently with soap and taking temperature daily.
-- Using a tissue whenever sneezing or coughing, and binning own litter and soiled tissues. This will prevent individuals from adversely affecting the health and well-being of family, friends, colleagues and those around them.
-- Keeping public toilets clean and dry. This will reduce the risk of spreading diseases and viruses such as COVID-19 and dengue within the community.
+Everyone can play a part in keeping themselves and others around them safe, by adopting good personal habits.
+For more information on good hygiene habits, view [here](/resources/posters).
 
-**Ground-up efforts**
+#### For Owners of Premises
 
-Grassroots organisations (GROs) and Non-Governmental Organisations (NGOs) such as the Public Hygiene Council (PHC), Restroom Association of Singapore (RAS), and the Singapore Kindness Movement (SKM) are also supporting with rallying the community to take ownership and commit to upholding good personal and environmental hygiene practices.
+**Ensuring cleanliness of public spaces**
 
+An important component of the SG Clean campaign is the SG Clean quality mark, a premises-based sanitation and hygiene indicator. The SG Clean quality mark requires organisations to commit to sector-specific sanitation and hygiene checklists, to safeguard public health in Singapore.
 
-## The SG Clean Quality Mark
+To raise hygiene standards and transform the cleanliness levels of public spaces, the SG Clean campaign has involved owners of premises adopting the SG Clean quality mark, to reflect their commitment and ownership of maintaining high standards of environmental public hygiene at their premises.  
 
-Those with the **SG Clean quality mark** will have their premises audited by agencies or appointed third-party assessors, and will have to commit and adhere to sector-specific sanitation and hygiene checklists, covering areas such as management oversight, cleaning methodology, toilet cleanliness, and general public hygiene.  
-  
-The **SG Clean quality mark** will be progressively rolled out to various sectors, covering premises with high human traffic such as:
+For more information on the SG Clean quality mark certification, view [here](/join/for-owners/how-to-be-certified/).
 
-- markets and hawker centres,
-- schools, preschools,
-- train stations and bus interchanges,  
-- government buildings,  
-- hotels, conference venues, tourist attractions,  
-- cruise and ferry terminals, airport terminals,  
-- shopping malls and F&B outlets.
-
-
-
-## Adjusting Social Norms, Sustaining Good Habits
-
-To help prevent community spread of COVID-19, it has been necessary to make adjustments to social norms in Singapore. For instance, many have refrained from shaking hands during this period. The SG Clean Taskforce will also encourage people to use serving spoons when sharing food, eat from trays and return trays in public dining places, and to keep their tables clean. 
-
-While the campaign will help to reduce any public health risks from the current COVID-19 situation, the longer-term objective is to instil greater awareness of good hygiene and cleaning practices, and to ensure that these are sustained at high levels beyond the current outbreak of COVID-19.  
-  
 Through collective action by all stakeholders, we can contribute towards safeguarding public health and making Singapore a cleaner, more liveable and pleasant environment for all.
 
+ 
