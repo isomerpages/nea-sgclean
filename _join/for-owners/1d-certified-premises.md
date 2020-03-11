@@ -18,6 +18,7 @@ third_nav_title: For Owners of Premises
 
 ### Tourism Establishments
 _(Hotels, SVC, etc)_
+
 [List of Tourism Establishments awarded SG Clean](/join/list-tourism.pdf)
 
 ### Retail Establishments
