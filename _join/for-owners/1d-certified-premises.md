@@ -16,7 +16,8 @@ third_nav_title: For Owners of Premises
 ### Schools
 [List of schools awarded SG Clean](/join/list-schools.pdf)
 
-### Tourism Establishments (Hotels, SVC, etc)
+### Tourism Establishments
+_(Hotels, SVC, etc)_
 [List of Tourism Establishments awarded SG Clean](/join/list-tourism.pdf)
 
 ### Retail Establishments
