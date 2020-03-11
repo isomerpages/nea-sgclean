@@ -32,7 +32,7 @@ An important component of the SG Clean campaign is the SG Clean quality mark, a 
 
 To raise hygiene standards and transform the cleanliness levels of public spaces, the SG Clean campaign has involved owners of premises adopting the SG Clean quality mark, to reflect their commitment and ownership of maintaining high standards of environmental public hygiene at their premises.  
 
-For more information on the SG Clean quality mark certification, view [here](/join/for-owners).
+For more information on the SG Clean quality mark certification, view [here](/join/for-owners/how-to-be-certified/).
 
 Through collective action by all stakeholders, we can contribute towards safeguarding public health and making Singapore a cleaner, more liveable and pleasant environment for all.
 
