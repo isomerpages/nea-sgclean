@@ -22,7 +22,8 @@ permalink: /resources/posters/
 ---
 **Community Posters**
 
-[English / Malay](https://nea-sgclean-staging.netlify.com/files/english-nea.pdf) | [Chinese / Tamil](https://nea-sgclean-staging.netlify.com/files/chinese-nea.pdf)<br>
+[English / Malay](https://nea-sgclean-staging.netlify.com/files/english-nea.pdf) |
+[Chinese / Tamil](https://nea-sgclean-staging.netlify.com/files/chinese-nea.pdf)<br>
 
 ---
 **Guidelines**
