@@ -3,4 +3,6 @@ title: Other Materials
 permalink: /resources/other-materials/
 ---
 
-*More resources coming soon*
+**SG Clean Logo Guide**
+
+[Logo Guide](/files/logo-guide.pdf/)<br>
