@@ -10,9 +10,9 @@ permalink: /media/media-releases/joint-news-release
 
 *NEA aims to roll out the SG Clean certification programme to publicly accessible premises with high human traffic and more vulnerable segments of the population by the end of 2020.*
 
-Singapore, 13 March 2020 – Launched on 16 February 2020 by Minister for the Environment and Water Resources, Mr. Masagos Zulkifli, the SG Clean campaign seeks to rally stakeholders and members of the public to do their part, by adopting good personal habits and social responsibility, to raise standards of cleanliness and public hygiene in Singapore and safeguard public health. It is envisioned that the SG Clean campaign will instil a national “keep clean culture”, where keeping Singapore clean is an integral part of our lives.
+**Singapore, 13 March 2020** – Launched on 16 February 2020 by Minister for the Environment and Water Resources, Mr. Masagos Zulkifli, the SG Clean campaign seeks to rally stakeholders and members of the public to do their part, by adopting good personal habits and social responsibility, to raise standards of cleanliness and public hygiene in Singapore and safeguard public health. It is envisioned that the SG Clean campaign will instil a national “keep clean culture”, where keeping Singapore clean is an integral part of our lives.
 
-Updates on the SG Clean Campaign
+**Updates on the SG Clean Campaign**
 
 2     With more reported cases of the COVID-19 (Coronavirus Disease 2019) all over the world, Singapore’s containment strategy including border controls measures may increasingly become less effective. Instead, taking individual and social responsibility to maintain high cleanliness and public hygiene standards will be Singapore’s first line of defence to reduce the spread of public health diseases, and ensure the health and wellbeing of our loved ones and our community.  
 
@@ -22,7 +22,7 @@ Updates on the SG Clean Campaign
 
 5     In support of the Whole-of-Government (WOG) effort, more public agencies such as the Civil Aviation Authority of Singapore, Land Transport Authority and Maritime and Port Authority of Singapore will be coming onboard to champion the adoption of the SG Clean quality mark amongst the stakeholders within their sectors.    
 
-All Schools under the Ministry of Education (MOE) to be Certified SG Clean
+**All Schools under the Ministry of Education (MOE) to be Certified SG Clean**
 
 6     Amid the current COVID-19 situation, theMinistry of Education (MOE) had earlier raised sanitation and hygiene practices in schoolsto enhance the protection of the school community. These include intensifying its cleaning routines and environmental hygiene in schools.
 
@@ -30,7 +30,7 @@ All Schools under the Ministry of Education (MOE) to be Certified SG Clean
 
 8     More than 95% of schools[1] and Institutes of Higher Learning[2], as well as all premises under MOE have been certified SG Clean. These premises will be audited periodically toensure that they maintain ahigh standard of cleanliness and public hygiene. The remaining schools will be certified by the end of the month.
 
-Concerted action needed from everyone to elevate the cleanliness and public hygiene standards and make them the new norms
+**Concerted action needed from everyone to elevate the cleanliness and public hygiene standards and make them the new norms**
 
 9     Raising the standard of personal hygiene, public hygiene and social responsibility are important as they serve as critical components in our line of defence against the spread of the COVID-19 in Singapore. These practices and norms should continue even after the COVID-19 situation is resolved, as adopting them also helps to reduce the spread of other public health diseases, such as dengue. For instance, not littering and maintaining clean premises will help reduce breeding habitats for dengue transmitting Aedes aegypti mosquitoes, which are able to breed in bodies of stagnant water as small as a 20-cent coin.
 
@@ -44,7 +44,7 @@ For more information, please submit your enquiries electronically via the myENV 
 
 <br>
 
-![Annex](https://www.nea.gov.sg/images/default-source/default-album/sg-clean-update.jpg)
+![Annex](https://www.nea.gov.sg/images/default-source/media/news-releases-images/sg-clean-premises-13mar.png)
 
 <br>
 
