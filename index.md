@@ -19,7 +19,7 @@ sections:
             - title: RESOURCES
               url: /resources/advisories/
     - infopic:
-        title: Practise good public hygiene
+        title: Practise good public hygiene habits
         subtitle:  
         description: These are simple, everyday steps that everyone can take to improve our hygiene standards.
         button: Adopt the 7 habits here
