@@ -4,6 +4,8 @@ permalink: /join/for-owners/certified-premises/
 third_nav_title: For Owners of Premises
 ---
 
+![SG Clean certified school](/images/school-banner.jpg)
+
 ## Certified Premises
 
 
