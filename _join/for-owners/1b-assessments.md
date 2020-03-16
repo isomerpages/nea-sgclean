@@ -181,8 +181,8 @@ third_nav_title: For Owners of Premises
 Please email SGClean@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
 (1) Establishment name <br>
-(2) Industry <br>
-(3) Outlet address and postal code <br>
+(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one)
+(3) Industry: F&B or Retail?
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -207,8 +207,8 @@ Please email SGClean@enterprisesg.gov.sg with the following information, and we 
 Please email SGClean@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
 (1) Establishment name <br>
-(2) Industry <br>
-(3) Outlet address and postal code <br>
+(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one)
+(3) Industry: F&B or Retail?
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -226,13 +226,15 @@ Please email SGClean@enterprisesg.gov.sg with the following information, and we 
 ### F&B Establishments
 
 [**F&B Establishments**](https://nea-sgclean-staging.netlify.com/files/checklist-fandb.pdf)<br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br>
 
 Please email SGClean@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
 (1) Establishment name <br>
-(2) Industry <br>
-(3) Outlet address and postal code <br>
+(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one)
+(3) Industry: F&B or Retail?
 
 _If your premises are located within an Integrated Resort, Hotel, or Sentosa, please click_ [here](https://go.gov.sg/stb-sgclean-participation)
 
