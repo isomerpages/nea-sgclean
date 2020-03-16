@@ -22,7 +22,7 @@ To help prevent community spread of COVID-19, it has been necessary to make adju
 While the SG Clean campaign will help to reduce public health risks from the current COVID-19 situation, the longer-term objective is to instil greater awareness of good hygiene and cleaning practices, and to ensure that these are sustained at high levels beyond the current COVID-19 outbreak.
 
 Everyone can play a part in keeping themselves and others around them safe, by adopting good personal habits.
-For more information on good hygiene habits, view [here](/resources/posters).
+For more information on good hygiene habits, view [here](/join/for-individuals/).
 
 #### For Owners of Premises
 

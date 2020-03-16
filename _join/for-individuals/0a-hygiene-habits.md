@@ -9,8 +9,9 @@ third_nav_title: For Individuals
 ---
 
 
-**Everyone can play a part in keeping themselves and others around them safe, by adopting good personal habits.<br>
-Let’s Do Our Part:**
+**Everyone can play a part in keeping themselves and others around them safe, by adopting good personal habits.** <br>
+
+**Let’s Do Our Part:**
 
 1.    Wash your hands frequently
 2.    Monitor your temperature twice daily

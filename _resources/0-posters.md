@@ -3,10 +3,13 @@ title: Posters
 permalink: /resources/posters/
 ---
 
-### SG Clean Posters & Collateral
+### SG Clean Campaign Resources
 
 ---
-*to be updated*
+**'Let's Do Our Part' Posters**
+
+[English / Malay](/files/poster-english-malay.pdf/)<br>
+[Chinese / Tamil](/files/poster-chinese-tamil.pdf/)<br>
 
 ---
 **Guidelines**

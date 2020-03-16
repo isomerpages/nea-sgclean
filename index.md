@@ -16,14 +16,16 @@ sections:
               url: /join/for-individuals/
             - title: SG CLEAN QUALITY MARK
               url: /join/for-owners/how-to-be-certified/
+            - title: CERTIFIED PREMISES
+              url: /join/for-owners/certified-premises/
             - title: RESOURCES
               url: /resources/advisories/
     - infopic:
-        title: Practise the 7 habits of good public hygiene
+        title: Practise good public hygiene habits
         subtitle:  
         description: These are simple, everyday steps that everyone can take to improve our hygiene standards.
         button: Adopt the 7 habits here
-        url: /resources/posters/
+        url: /join/for-individuals/
         image: /images/handwash.jpg
         alt: Adopt the 7 habits of good public hygiene
     - infopic:

@@ -4,6 +4,8 @@ permalink: /join/for-owners/certified-premises/
 third_nav_title: For Owners of Premises
 ---
 
+![SG Clean certified school](/images/school-banner.jpg)
+
 ## Certified Premises
 
 
@@ -13,13 +15,19 @@ third_nav_title: For Owners of Premises
 ### Coffeeshops
 [List of coffeeshops awarded SG Clean](/join/list-coffeeshops.pdf)
 
+### Transport Nodes
+[List of transport nodes awarded SG Clean](/join/list-transport.pdf)
+
 ### Schools
 [List of schools awarded SG Clean](/join/list-schools.pdf)
 
 ### Tourism Establishments
 _(Hotels, SVC, etc)_
 
-[List of Tourism Establishments awarded SG Clean](/join/list-tourism.pdf)
+[List of tourism establishments awarded SG Clean](/join/list-tourism.pdf)
 
 ### Retail Establishments
-[List of Tourism Establishments awarded SG Clean](/join/list-retail.pdf)
+[List of retail establishments awarded SG Clean](/join/list-retail.pdf)
+
+### F&B Establishments <br>
+_to be updated_
