@@ -16,6 +16,8 @@ sections:
               url: /join/for-individuals/
             - title: SG CLEAN QUALITY MARK
               url: /join/for-owners/how-to-be-certified/
+            - title: CERTIFIED PREMISES
+              url: /join/for-owners/certified-premises/
             - title: RESOURCES
               url: /resources/advisories/
     - infopic:
