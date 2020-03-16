@@ -3,7 +3,7 @@ title: Posters
 permalink: /resources/posters/
 ---
 
-### SG Clean Posters & Collateral
+### SG Clean Campaign Resources
 
 ---
 **'Let's Do Our Part' Posters**
