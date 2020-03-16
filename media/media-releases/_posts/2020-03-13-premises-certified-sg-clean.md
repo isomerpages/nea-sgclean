@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Joint new release between NEA, SFA, ESG, STB, MOE, MSF, ECDA and MOT 
+title: More Than 5,000 Premises Certified SG Clean Since The Launch Of The Campaign
 permalink: /media/media-releases/joint-news-release
 ---
 
