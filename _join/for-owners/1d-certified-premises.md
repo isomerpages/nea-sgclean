@@ -26,3 +26,6 @@ _(Hotels, SVC, etc)_
 
 ### Retail Establishments
 [List of retail establishments awarded SG Clean](/join/list-retail.pdf)
+
+### F&B Establishments <br>
+_to be updated_
