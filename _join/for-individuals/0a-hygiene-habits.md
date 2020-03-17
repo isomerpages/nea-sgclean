@@ -22,4 +22,4 @@ third_nav_title: For Individuals
 7.    Keep toilets clean and dry
 
 
-Have questions about the campaign? See our [FAQ.](/faq/)
+Have questions about SG Clean? See our [FAQ.](/faq/)
