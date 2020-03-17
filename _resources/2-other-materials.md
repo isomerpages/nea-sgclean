@@ -27,6 +27,7 @@ permalink: /resources/other-materials/
 
 ---
 
-**SG Clean Logo Guide**
+**SG Clean Logo / Quality Mark and Guide**
 
+[Logo / Quality Mark](/files/logo.zip/)<br>
 [Logo Guide](/files/logo-guide.pdf/)<br>

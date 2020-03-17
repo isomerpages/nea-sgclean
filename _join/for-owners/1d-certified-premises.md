@@ -8,6 +8,7 @@ third_nav_title: For Owners of Premises
 
 ## Certified Premises
 
+_updated as of 17 March 2020_
 
 ### Hawker Centres
 [List of hawker centres awarded SG Clean](/join/list-hawkers.pdf)
@@ -24,10 +25,8 @@ third_nav_title: For Owners of Premises
 ### Tourism Establishments
 _(Hotels, SVC, etc)_
 
-[List of tourism establishments awarded SG Clean](/join/list-tourism.pdf)
+[List of tourism establishments awarded SG Clean](/join/list-stb.pdf)
 
-### Retail Establishments
-[List of retail establishments awarded SG Clean](/join/list-retail.pdf)
+### Retail and F&B Establishments
+[List of retail and F&B establishments awarded SG Clean](/join/list-retail.pdf)
 
-### F&B Establishments <br>
-_to be updated_
