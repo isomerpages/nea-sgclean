@@ -13,7 +13,7 @@ links:
     collection: join
   - title: Resources
     collection: resources
- # - title: FAQs
- #   url: /faq/
+  - title: FAQ
+    url: /faq/
   - title: Media
     resource_room: true
