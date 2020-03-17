@@ -21,6 +21,7 @@ _Updated as of 17 March 2020_
 [F&B Establishments](#food) <br>
 [MICE Venues](#mice) <br>
 [Attractions](#attractions) <br>
+[Integrated Resorts](#ir) <br>
 [Singapore Visitor Centre](#svc) <br>
 [Cruise Terminals](#cruise)** <br>
 
@@ -270,6 +271,29 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 
 ---
 
+<a name="ir"></a>
+### Integrated Resorts
+
+[**Checklist for Integrated Resorts**](https://nea-sgclean-staging.netlify.com/files/checklist-ir.pdf)<br><br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.docx)<br><br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br><br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
+
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+[back to top](#top)
+
+
+---
+
 <a name="svc"></a>
 ### Singapore Visitor Centres
 
@@ -289,7 +313,6 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 
 
 [back to top](#top)
-
 ---
 
 <a name="attractions"></a>
