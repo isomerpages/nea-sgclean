@@ -33,5 +33,12 @@ If all the requirements in the checklist are met, the SG CLEAN quality mark and 
 
 If lapses are detected at your premises, the appointed assessors will make known the lapses and will advise you to carry out the necessary rectification work. Once the rectification work has been carried out, contact the respective agencies and/or appointed assessor for a re-assessment. 
 
+
+**More questions about SG Clean? See our [FAQ.](/faq/)**
+
+
 ![SG Clean](/images/stallbanner.jpg)
+
+
+
 
