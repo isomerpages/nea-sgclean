@@ -26,6 +26,9 @@ _Updated as of 17 March 2020_
 [Cruise Terminals](#cruise)** <br>
 
 
+**More questions about SG Clean? See our [FAQ.](/faq/)**
+
+
 ------
 
 <a name="hawker"></a>
