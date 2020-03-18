@@ -26,6 +26,9 @@ _Updated as of 17 March 2020_
 [Cruise Terminals](#cruise)** <br>
 
 
+**More questions about SG Clean? See our [FAQ.](/faq/)**
+
+
 ------
 
 <a name="hawker"></a>
@@ -183,7 +186,7 @@ _Updated as of 17 March 2020_
 Please email enquiry@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
 (1) Establishment name <br>
-(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one)
+(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one) <br>
 (3) Industry: F&B or Retail?
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -209,7 +212,7 @@ Please email enquiry@enterprisesg.gov.sg with the following information, and we 
 Please email enquiry@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
 (1) Establishment name <br>
-(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one)
+(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one) <br>
 (3) Industry: F&B or Retail?
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -235,7 +238,7 @@ Please email enquiry@enterprisesg.gov.sg with the following information, and we 
 Please email enquiry@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
 (1) Establishment name <br>
-(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one)
+(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one) <br>
 (3) Industry: F&B or Retail?
 
 _If your premises are located within an Integrated Resort, Hotel, or Sentosa, please click_ [here](https://go.gov.sg/stb-sgclean-participation)

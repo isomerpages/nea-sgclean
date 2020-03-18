@@ -3,11 +3,6 @@ title: Other Materials
 permalink: /resources/other-materials/
 ---
 
-**Interim Guidelines for Residences**
-
-[English](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/interim-guidelines-for-residences-english.pdf) | [Chinese](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/interim-guidelines-for-residences-chinese.pdf) | [Malay](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/interim-guidelines-for-residences-malay.pdf) | [Tamil](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/interim-guidelines-for-residences-tamil.pdf)
-
----
 
 **7 Key Good Habits for Stallholders**
 
