@@ -1,6 +1,6 @@
 ---
 title: Certified Premises test
-permalink: /join/for-owners/logos-test/
+permalink: /join/for-owners/logos-test2/
 third_nav_title: For Owners of Premises
 ---
 
