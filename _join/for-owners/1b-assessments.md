@@ -6,7 +6,7 @@ third_nav_title: For Owners of Premises
 
 ## Select the category or sector that you most closely belong to:
 
-_Updated as of 17 March 2020_
+_Updated as of 23 March 2020_
 
 <a name="top"></a>
 **[Hawker Centres](#hawker) <br>
@@ -183,11 +183,12 @@ _Updated as of 17 March 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-Please email enquiry@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
-(1) Establishment name <br>
-(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one) <br>
-(3) Industry: F&B or Retail?
+Please scan the QR code below and key in your postal code to find out your appointed assessment organisation.
+
+Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/) 
+
+![key in postal code](/images/esg-qr.png)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -209,11 +210,12 @@ Please email enquiry@enterprisesg.gov.sg with the following information, and we 
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-Please email enquiry@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
 
-(1) Establishment name <br>
-(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one) <br>
-(3) Industry: F&B or Retail?
+Please scan the QR code below and key in your postal code to find out your appointed assessment organisation.
+
+Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/) 
+
+![key in postal code](/images/esg-qr.png)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -235,11 +237,11 @@ Please email enquiry@enterprisesg.gov.sg with the following information, and we 
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.docx)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-Please email enquiry@enterprisesg.gov.sg with the following information, and we will connect you to your appointed assessment organisation:
+Please scan the QR code below and key in your postal code to find out your appointed assessment organisation.
 
-(1) Establishment name <br>
-(2) Outlet address and postal code (please indicate the name of the shopping mall if you are located in one) <br>
-(3) Industry: F&B or Retail?
+Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/) 
+
+![key in postal code](/images/esg-qr.png)
 
 _If your premises are located within an Integrated Resort, Hotel, or Sentosa, please click_ [here](https://go.gov.sg/stb-sgclean-participation)
 
