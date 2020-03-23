@@ -1,4 +1,5 @@
 ---
+<!---
 title: Certified Premises
 permalink: /join/for-owners/logos-test/
 third_nav_title: For Owners of Premises
@@ -207,5 +208,3 @@ _updated as of 17 March 2020_
 _(Hotels, SVC, etc)_
 
 [List of tourism establishments awarded SG Clean](/join/list-stb.pdf)
-
-
