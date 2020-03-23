@@ -318,6 +318,7 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 
 
 [back to top](#top)
+
 ---
 
 <a name="attractions"></a>
