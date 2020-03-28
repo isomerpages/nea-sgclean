@@ -4,7 +4,7 @@ title: SG Clean
 description: 
 image: /images/handwash2.jpg
 permalink: /
-notification: Be an SG Clean Ambassador today! <a href="/join/for-individuals/ambassadors">Sign up here</a>
+notification: Be an SG Clean Ambassador today! <a href="https://form.gov.sg/5e7484a2ca6a010011862c59">Sign up here</a>
 sections:
     - hero:
         title: Let's Do Our Part to Keep SG Clean
