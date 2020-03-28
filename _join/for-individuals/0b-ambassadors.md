@@ -1,7 +1,7 @@
 ---
 title: Be an SG Clean Ambassador
 permalink: /join/for-individuals/ambassadors
-third_nav_title: SG Clean Ambassadors
+third_nav_title: For Individuals
 ---
 
 ![SG Clean Ambassadors](/images/volunteer.jpg)
