@@ -16,6 +16,8 @@ SG Clean is a proactive response to minimise the spread of COVID-19, and to make
 
 Through SG Clean, we will build confidence with our people that if we all if we do this together, Singapore will be cleaner and safer!
 
-#### Sign-up [here](https://go.gov.sg/rz3cer), or use this QR Code:**
+#### Sign-up [here](https://go.gov.sg/rz3cer), or use this QR Code:<br>
+
+--- <br>
 
 ![SG Clean Ambassadors](/images/volunteer-qr.png)
