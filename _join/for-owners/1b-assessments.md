@@ -38,7 +38,7 @@ _Updated as of 23 March 2020_
 [**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -59,7 +59,7 @@ _Updated as of 23 March 2020_
 [**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact SFA](https://www.sfa.gov.sg/contact-us/sfa-headquarters)**
+**[Contact SFA for audit](https://www.sfa.gov.sg/contact-us/sfa-headquarters)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -79,7 +79,7 @@ _Updated as of 23 March 2020_
 [**Transport nodes checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -99,7 +99,7 @@ _Updated as of 23 March 2020_
 [**Schools checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -119,7 +119,7 @@ _Updated as of 23 March 2020_
 [**Early childhood facilities checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -139,7 +139,7 @@ _Updated as of 23 March 2020_
 [**Government-occupied checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
