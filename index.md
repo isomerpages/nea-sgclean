@@ -20,7 +20,7 @@ sections:
             - title: CERTIFIED PREMISES
               url: /join/for-owners/certified-premises/
             - title: SG CLEAN AMBASSADOR
-              url: /https://form.gov.sg/5e7484a2ca6a010011862c59/
+              url: https://form.gov.sg/5e7484a2ca6a010011862c59/
     - infopic:
         title: Practise good public hygiene habits
         subtitle:  
