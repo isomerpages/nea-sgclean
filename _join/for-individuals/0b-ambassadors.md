@@ -1,7 +1,7 @@
 ---
-title: SG Clean Ambassador
+title: Be an SG Clean Ambassador!
 permalink: /join/for-individuals/ambassadors
-third_nav_title: SG Clean Ambassador
+third_nav_title: SG Clean Ambassadors Network
 ---
 
 ![SG Clean Ambassadors](/images/volunteer.jpg)
@@ -10,9 +10,4 @@ third_nav_title: SG Clean Ambassador
 
 ### Sign-up as an SG Clean Ambassador [here](https://go.gov.sg/rz3cer) <br>
 
-
-**or use this QR Code:**<br>
-
 --- <br>
-
-![SG Clean Ambassadors](/images/volunteer-qr.png)
