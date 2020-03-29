@@ -19,7 +19,7 @@ sections:
               url: /join/for-owners/how-to-be-certified/
             - title: CERTIFIED PREMISES
               url: /join/for-owners/certified-premises/
-            - title: SG CLEAN AMBASSADOR NETWORK
+            - title: SG CLEAN AMBASSADORS NETWORK
               url: https://form.gov.sg/5e7484a2ca6a010011862c59/
     - infopic:
         title: Practise good public hygiene habits
