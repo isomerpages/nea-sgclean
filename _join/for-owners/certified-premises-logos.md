@@ -7,6 +7,6 @@ third_nav_title: For Owners of Premises
 iframe src='https://www.juicer.io/api/feeds/neasingapore/iframe' frameborder='0' width='1000' height='1000' style='display:block;margin:0 auto;'>
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.juicer.io/api/feeds/neasingapore/iframe" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.juicer.io/api/feeds/neasingapore/iframe" frameborder='0' width='1000' height='1000' style='display:block;margin:0 auto;'> </iframe>
 </figure>
 <!-- blank line -->
