@@ -8,3 +8,5 @@ third_nav_title: For Owners of Premises
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/svZJlRB1thA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
+<iframe src='https://www.juicer.io/api/feeds/neasingapore/iframe' frameborder='0' width='1000' height='1000' style='display:block;margin:0 auto;'></iframe>
+---
