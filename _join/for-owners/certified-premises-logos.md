@@ -5,6 +5,4 @@ third_nav_title: For Owners of Premises
 ---
 > ### Premises are awarded with the SG Clean quality mark after an official assessment
 
-[embed url=https://www.juicer.io/api/feeds/neasingapore/iframe]
-
 
