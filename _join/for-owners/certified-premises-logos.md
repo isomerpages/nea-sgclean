@@ -12,6 +12,5 @@ third_nav_title: For Owners of Premises
 	frameborder="0"
 	webkitallowfullscreen
 	mozallowfullscreen
-	allowfullscreen
-></iframe>
+	allowfullscreen></iframe>
 <!-- blank line -->
