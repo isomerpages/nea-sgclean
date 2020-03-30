@@ -10,3 +10,5 @@ iframe src='https://www.juicer.io/api/feeds/neasingapore/iframe' frameborder='0'
   <iframe src="https://www.juicer.io/api/feeds/neasingapore/iframe" frameborder='0' width='1000' height='1000' style='display:block;margin:0 auto;'> </iframe>
 </figure>
 <!-- blank line -->
+
+<iframe src="https://albumizr.com/a/135b" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
