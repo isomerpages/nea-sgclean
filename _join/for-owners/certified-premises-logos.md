@@ -8,5 +8,6 @@ third_nav_title: For Owners of Premises
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/svZJlRB1thA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
-<iframe src='https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/heritage-of-our-hawker-centres' frameborder='0' width='1000' height='1000' style='display:block;margin:0 auto;'></iframe>
+<iframe name="Gallery" src="https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/heritage-of-our-hawker-centres" width="400" height="200" frameborder="0" scrolling="auto" class="frame-area">
+</iframe>
 ---
