@@ -30,3 +30,7 @@ _(Hotels, SVC, etc)_
 ### Retail and F&B Establishments
 [List of retail and F&B establishments awarded SG Clean](/join/list-retail.pdf)
 
+### Airline Lounges
+[List of Airline Lounges](/join/list-airline-lounges.pdf)
+
+
