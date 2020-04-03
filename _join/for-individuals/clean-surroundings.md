@@ -1,7 +1,7 @@
 ---
 title: Keep Your Surroundings Clean
-permalink: /join/for-individuals/clean-surroundings
-third_nav_title: Keep Your Surroundings Clean
+permalink: /join/for-individuals/
+third_nav_title: For Individuals
 ---
 
 ![Let's do our part](/images/handwash2.jpg)
