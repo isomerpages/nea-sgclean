@@ -1,11 +1,7 @@
 ---
 title: Keep Your Surroundings Clean
-permalink: /join/for-individuals/
+permalink: /join/for-individuals/surroundings
 third_nav_title: For Individuals
----
-
-![Let's do our part](/images/handwash2.jpg)
-
 ---
 
 As individuals, we can contribute to safeguarding our environment, by taking necessary precautions, to reduce the spread of diseases such as COVID-19 (Coronavirus Disease 2019) and dengue.
