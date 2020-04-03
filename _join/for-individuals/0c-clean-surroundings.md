@@ -1,5 +1,5 @@
 ---
-title: Keep Your Surroundings CleanPractise Good Hygiene Habits
+title: Keep Your Surroundings Clean
 permalink: /join/for-individuals/
 third_nav_title: For Individuals
 ---
