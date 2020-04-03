@@ -1,6 +1,6 @@
 ---
 title: Keep Your Surroundings Clean
-permalink: /join/for-individuals/
+permalink: /join/for-individuals/clean-surroundings
 third_nav_title: clean surroundings
 ---
 
