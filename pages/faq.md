@@ -5,6 +5,34 @@ permalink: /faq/
 
 ### **FAQ**
 
+
+---
+
+#### In light of the circuit breaker measures stipulated from 7 April to 4 May 2020, can establishments still participate in SG Clean?
+
+The establishments under ESG and STB (as stated above) can still indicate interest to participate in SG Clean during this period. However, the on-site assessment for establishments under these agencies will only be conducted when the circuit breaker measures are lifted on 4 May 2020.
+
+The assessors  will contact establishments who have initially arranged for their on-site assessment to take place during 7 April to 4 May 2020 to re-schedule their appointments after the end of the circuit breaker measures on 4 May 2020.
+
+---
+
+**During the period with the circuit breaker measures in place, are certified establishments which are still operating, expected to adhere to the SG Clean requirements?**
+
+Certified establishments should adhere to the latest advisories issued by the Ministry of Health and their respective agencies, alongside the requirements set out in the SG Clean checklists. The awarding body may withdraw the quality mark for premises that fail to rectify any shortcomings expeditiously.
+
+---
+
+**Will there be any changes to the validity period of the SG Clean quality mark?**
+
+The SG Clean quality mark will still remain valid upon certification till 30 June 2021.
+
+---
+
+**I had earlier been assessed prior to the start of circuit breaker measures. When will I know the results of the assessment, and get the collaterals for display?**
+
+For establishments that fall under ESG and STB, the results of the assessment will be made known when ready. However, the marketing collaterals will be delivered after the circuit breaker measures are lifted on 4 May.
+
+
 ------
 
 **What is the SG Clean campaign about?**
