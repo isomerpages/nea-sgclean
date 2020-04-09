@@ -4,7 +4,7 @@ permalink: /resources/other-materials/
 ---
 
 
-**7 Key Good Habits for Stallholders**
+**7 Key Good Habits for Stallholders** <br>
 
 [English](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/7-key-hygiene-habits-stallholders-english.pdf) | [Chinese](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/7-key-hygiene-habits-stallholders-chinese.pdf) | [Malay](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/7-key-hygiene-habits-stallholders-malay.pdf) | [Tamil](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/7-key-hygiene-habits-stallholders-tamil.pdf)
 
