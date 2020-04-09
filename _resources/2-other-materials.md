@@ -9,20 +9,38 @@ permalink: /resources/other-materials/
 [English](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/7-key-hygiene-habits-stallholders-english.pdf) | [Chinese](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/7-key-hygiene-habits-stallholders-chinese.pdf) | [Malay](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/7-key-hygiene-habits-stallholders-malay.pdf) | [Tamil](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/7-key-hygiene-habits-stallholders-tamil.pdf)
 
 ---
+ 
+**Hygiene Tips for Cleaners** <br>
 
-**Cleaning Tips for Cleaners**
+[English](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/hygiene-tips.pdf) | 
+[Chinese](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/hygiene-tips-for-cleaners-chinese.pdf) | 
+[Malay](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/hygiene-tips-for-cleaners-malay.pdf) | 
+[Tamil](https://www-nea-gov-sg-admin.cwp.sg/docs/default-source/our-services/public-cleanliness/covid-19/hygiene-tips-for-cleaners-tamil.pdf)
 
-[Cleaning Tips for Cleaners](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/cleaning-tips-for-cleaners.pdf)
+---
+ 
+**Cleaning Tips for Cleaners** <br>
+
+[English](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/cleaning-tips-for-cleaners.pdf) | 
+[Chinese](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/cleaning-tips-for-cleaners-chinese.pdf) | 
+[Malay](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/cleaning-tips-for-cleaners-malay.pdf) | 
+[Tamil](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/cleaning-tips-for-cleaners-tamil.pdf)
 
 ---
 
- **Hygiene Tips**
+**8 Steps of Handwashing** <br>
 
-[How to remove used and contaminated gloves](https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/covid-19/hygiene-tips.pdf)
+[8 Steps of Handwashing](/files/8steps.pdf)
 
 ---
 
-**SG Clean Logo / Quality Mark and Guide**
+**How to Stay Strong and Healthy** <br>
+
+[Get simple tips on how you can keep up with your healthy habits today](healthhub.sg/staywell)
+
+---
+
+**SG Clean Logo / Quality Mark and Guide** <br>
 
 [Logo / Quality Mark](/files/logo.zip/)<br>
 [Logo Guide](/files/logo-guide.pdf/)<br>
