@@ -7,6 +7,25 @@ permalink: /resources/posters/
 
 ---
 
+**Safe Distancing at Markets** <br>
+
+[English](/files/wet-e.pdf/) | [Chinese](/files/wet-c.pdf/) | [Malay](/files/wet-m.pdf/) | [Tamil](/files/wet-t.pdf/)<br>
+
+---
+
+**Additional Safe Distancing Measures at Markets** <br>
+
+[English](/files/additional-e.pdf/) | [Chinese](/files/additional-c.pdf/) | [Malay](/files/additional-m.pdf/) | [Tamil](/files/additional-t.pdf/)<br>
+
+---
+
+**Safe Distancing at Hawker Centres** <br>
+
+[English / Malay](/files/safe-em-offence.pdf/)<br>
+[Chinese / Tamil](/files/safe-ct-offence.pdf/)<br>
+
+---
+
 **Safe Distancing at Eating Places** <br>
 
 [English](/files/safe-e.pdf/) | [Chinese](/files/safe-c.pdf/) | [Malay](/files/safe-m.pdf/) | [Tamil](/files/safe-t.pdf/)<br>
