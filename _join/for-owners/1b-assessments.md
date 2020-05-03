@@ -6,7 +6,7 @@ third_nav_title: For Owners of Premises
 
 ## Select the category or sector that you most closely belong to:
 
-_Updated as of 2 April 2020_
+_Updated as of 30 April 2020_
 
 <a name="top"></a>
 **[Hawker Centres](#hawker) <br>
@@ -161,7 +161,7 @@ _Updated as of 2 April 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification. Please note that the assessment will only be conducted after the circuit breaker measures are lifted on 4 May 2020.
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end July 2020. Please note that the assessment will only be conducted after the circuit breaker measures are lifted.
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -186,7 +186,7 @@ _Updated as of 2 April 2020_
 
 Please scan the QR code below and key in your postal code to find out your appointed assessment organisation.
 
-Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/). Please note that the assessment will only be conducted after the circuit breaker measures are lifted on 4 May 2020.
+Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/). Please note that the assessment will only be conducted after the circuit breaker measures are lifted.
 
 ![key in postal code](/images/esg-qr.png)
 
@@ -213,7 +213,7 @@ Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elas
 
 Please scan the QR code below and key in your postal code to find out your appointed assessment organisation.
 
-Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/). Please note that the assessment will only be conducted after the circuit breaker measures are lifted on 4 May 2020.
+Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/). Please note that the assessment will only be conducted after the circuit breaker measures are lifted.
 
 ![key in postal code](/images/esg-qr.png)
 
@@ -239,7 +239,7 @@ Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elas
 
 Please scan the QR code below and key in your postal code to find out your appointed assessment organisation.
 
-Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/). Please note that the assessment will only be conducted after the circuit breaker measures are lifted on 4 May 2020.
+Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/). Please note that the assessment will only be conducted after the circuit breaker measures are lifted.
 
 ![key in postal code](/images/esg-qr.png)
 
@@ -265,7 +265,7 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification. Please note that the assessment will only be conducted after the circuit breaker measures are lifted on 4 May 2020.
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end July 2020. Please note that the assessment will only be conducted after the circuit breaker measures are lifted.
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -284,7 +284,7 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification. Please note that the assessment will only be conducted after the circuit breaker measures are lifted on 4 May 2020.
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end July 2020. Please note that the assessment will only be conducted after the circuit breaker measures are lifted.
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -307,7 +307,7 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification. Please note that the assessment will only be conducted after the circuit breaker measures are lifted on 4 May 2020.
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end July 2020. Please note that the assessment will only be conducted after the circuit breaker measures are lifted.
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -329,7 +329,7 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification. Please note that the assessment will only be conducted after the circuit breaker measures are lifted on 4 May 2020.
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end July 2020. Please note that the assessment will only be conducted after the circuit breaker measures are lifted.
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -348,7 +348,7 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification. Please note that the assessment will only be conducted after the circuit breaker measures are lifted on 4 May 2020.
+**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end July 2020. Please note that the assessment will only be conducted after the circuit breaker measures are lifted.
 
 <br><br><br><br><br><br><br><br><br><br>
 
