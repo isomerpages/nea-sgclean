@@ -5,7 +5,6 @@ permalink: /faq/
 
 ### **FAQ**
 
-
 ---
 
 **I had earlier been assessed prior to the start of circuit breaker measures. When will I know the results of the assessment, and get the collaterals for display?**
@@ -13,7 +12,7 @@ permalink: /faq/
 For establishments that fall under ESG and STB, the results of the assessment will be made known when ready. However, the marketing collaterals will be delivered after the circuit breaker measures are lifted.
 
 
-------
+---
 
 **What is the SG Clean campaign about?**
 
