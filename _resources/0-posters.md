@@ -43,18 +43,18 @@ permalink: /resources/posters/
 
 **Keep Our Eating Place Clean and Safe Poster** <br>
 
-[English / Malay / Chinese / Tamil](/files/Clean and safe.pdf/)<br>
+[English / Malay / Chinese / Tamil](/files/Clean-and-safe.pdf/)<br>
 
 ---
 
 **Hand Sanitiser Signage for Hawker Centre** <br>
 
-[English / Malay / Chinese / Tamil](/files/Hand Sanitiser-Hawker.pdf/)<br>
+[English / Malay / Chinese / Tamil](/files/Hand-Sanitiser-Hawker.pdf/)<br>
 
 ---
 
 **Hand Sanitiser Signage for Wet Market** <br>
 
- [English / Malay / Chinese / Tamil](/files/Hand Sanitiser-Market.pdf/)<br>
+ [English / Malay / Chinese / Tamil](/files/Hand-Sanitiser-Market.pdf/)<br>
  
  
