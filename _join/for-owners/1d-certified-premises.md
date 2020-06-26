@@ -8,7 +8,7 @@ third_nav_title: For Owners of Premises
 
 ## Certified Premises
 
-_updated as of 18 June 2020_
+_updated as of 26 June 2020_
 
 ### Hawker Centres
 [List of hawker centres awarded SG Clean](/join/list-hawkers.pdf)
@@ -36,4 +36,6 @@ _(Hotels, SVC, etc)_
 ### Government-occupied Premises
 [List of Government-occupied Premises](/join/list-government.pdf)
 
+### Commercial Premises
+[List of Commercial Premises](/join/list-commercial.pdf)
 
