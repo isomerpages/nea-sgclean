@@ -36,4 +36,6 @@ _(Hotels, SVC, etc)_
 ### Government-occupied Premises
 [List of Government-occupied Premises](/join/list-government.pdf)
 
+### Commercial Premises
+[List of Commercial Premises](/join/list-commercial.pdf)
 
