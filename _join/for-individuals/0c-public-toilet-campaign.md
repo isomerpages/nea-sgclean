@@ -9,9 +9,9 @@ As we move towards a safe-opening post-Circuit Breaker, keeping our public toile
 #SGClean #KeepSGClean
 
 **Let's Practise Good Toilet Hygiene Poster** <br>
-[English / Malay / Chinese / Tamil](/file/PTC-EMCT)<br>
+[English / Malay / Chinese / Tamil](/file/PTC-EMCT.pdf)<br>
 **Video**<br>
 [![Loo Guru is Back!](https://img.youtube.com/vi/ePHaVEwmzUM/maxresdefault.jpg)](https://www.youtube.com/watch?v=ePHaVEwmzUM)<br>
 
 **For Premises Owner**<br>
-[English / Malay / Chinese / Tamil](/file/PTC-signages)<br>
+[English / Malay / Chinese / Tamil](/file/PTC-signages.pdf)<br>
