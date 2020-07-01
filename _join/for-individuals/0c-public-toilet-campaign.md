@@ -3,7 +3,8 @@ title: Public Toilet Campaign
 permalink: /join/for-individuals/public-toilet-campaign/
 third_nav_title: For Individuals
 ---
-
+![PTC](/images/PTC.jpg)
+---
 As we move towards a safe-opening post-Circuit Breaker, keeping our public toilets clean, safe and pleasant for all is now more important than ever. Let’s do our part to **Flush, Clean, Bin and Dry**!
 
 #SGClean #KeepSGClean
@@ -15,3 +16,6 @@ As we move towards a safe-opening post-Circuit Breaker, keeping our public toile
 
 **For Premises Owner**<br>
 [English / Malay / Chinese / Tamil](/file/PTC-signages.pdf)<br>
+**Clean Toilet Checklist**<br>
+[English](/file/toilet-checklist.pdf)<br>
+
