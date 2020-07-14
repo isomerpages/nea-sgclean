@@ -8,13 +8,16 @@ third_nav_title: For Owners of Premises
 
 ## Certified Premises
 
-_updated as of 26 June 2020_
+_updated as of 14 July 2020_
 
 ### Hawker Centres
 [List of hawker centres awarded SG Clean](/join/list-hawkers.pdf)
 
 ### Coffeeshops
 [List of coffeeshops awarded SG Clean](/join/list-coffeeshops.pdf)
+
+### Canteens
+[List of canteens awarded SG Clean](/join/list-canteens.pdf)
 
 ### Transport Nodes
 [List of transport nodes awarded SG Clean](/join/list-transport.pdf)
