@@ -15,3 +15,6 @@ It’s now more important than ever to practice good personal and public hygiene
 Let’s make our eating places clean, safe and pleasant for all!
  
 #ReturnOurTrays #SGClean #KeepSGClean
+
+**Return Your Tray and Keep Tables Clean Poster** <br>
+[English](/file/poster-tray-return.pdf)<br>
