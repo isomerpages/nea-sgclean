@@ -184,11 +184,7 @@ _Updated as of 02 June 2020_
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-Please scan the QR code below and key in your postal code to find out your appointed assessment organisation.
-
-Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/). 
-
-![key in postal code](/images/esg-qr.png)
+Contact ESG: Please write in to SGClean_Programme@enterprisesg.gov.sg to indicate your interest for the SG Clean certification. <br><br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -211,11 +207,7 @@ Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elas
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-Please scan the QR code below and key in your postal code to find out your appointed assessment organisation.
-
-Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/). 
-
-![key in postal code](/images/esg-qr.png)
+Contact ESG: Please write in to SGClean_Programme@enterprisesg.gov.sg to indicate your interest for the SG Clean certification. <br><br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -237,11 +229,8 @@ Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elas
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-Please scan the QR code below and key in your postal code to find out your appointed assessment organisation.
 
-Alternatively, you may access the form [here](http://sgclean.ap-southeast-1.elasticbeanstalk.com/). 
-
-![key in postal code](/images/esg-qr.png)
+Contact ESG: Please write in to SGClean_Programme@enterprisesg.gov.sg to indicate your interest for the SG Clean certification. <br><br>
 
 _If your premises are located within an Integrated Resort, Hotel, or Sentosa, please click_ [here](https://go.gov.sg/stb-sgclean-participation)
 
