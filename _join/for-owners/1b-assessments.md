@@ -184,7 +184,7 @@ _Updated as of 02 June 2020_
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-Contact ESG: Please write in to SGClean_Programme@enterprisesg.gov.sg to indicate your interest for the SG Clean certification. <br><br>
+**Contact ESG:** Please write in to SGClean_Programme@enterprisesg.gov.sg to indicate your interest for the SG Clean certification. <br><br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -207,7 +207,7 @@ Contact ESG: Please write in to SGClean_Programme@enterprisesg.gov.sg to indicat
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-Contact ESG: Please write in to SGClean_Programme@enterprisesg.gov.sg to indicate your interest for the SG Clean certification. <br><br>
+**Contact ESG:** Please write in to SGClean_Programme@enterprisesg.gov.sg to indicate your interest for the SG Clean certification. <br><br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -230,7 +230,7 @@ Contact ESG: Please write in to SGClean_Programme@enterprisesg.gov.sg to indicat
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-Contact ESG: Please write in to SGClean_Programme@enterprisesg.gov.sg to indicate your interest for the SG Clean certification. <br><br>
+**Contact ESG:** Please write in to SGClean_Programme@enterprisesg.gov.sg to indicate your interest for the SG Clean certification. <br><br>
 
 _If your premises are located within an Integrated Resort, Hotel, or Sentosa, please click_ [here](https://go.gov.sg/stb-sgclean-participation)
 
