@@ -8,7 +8,7 @@ third_nav_title: For Owners of Premises
 
 ## Certified Premises
 
-_updated as of 14 July 2020_
+_updated as of 31 August 2020_
 
 ### Hawker Centres
 [List of hawker centres awarded SG Clean](/join/list-hawkers.pdf)
@@ -24,6 +24,9 @@ _updated as of 14 July 2020_
 
 ### Schools
 [List of schools awarded SG Clean](/join/list-schools.pdf)
+
+### Preschools
+[List of preschools awarded SG Clean](/join/list-preschool.pdf)
 
 ### Tourism Establishments
 _(Hotels, SVC, etc)_
