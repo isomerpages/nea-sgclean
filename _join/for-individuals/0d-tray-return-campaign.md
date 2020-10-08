@@ -17,4 +17,4 @@ Let’s make our eating places clean, safe and pleasant for all!
 #ReturnOurTrays #SGClean #KeepSGClean
 
 **Return Your Tray and Keep Tables Clean Poster** <br>
-[English](/file/poster-tray-return.pdf)<br>
+[English](/files/poster-tray-return.pdf)<br>
