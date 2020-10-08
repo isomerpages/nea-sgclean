@@ -17,5 +17,5 @@ As we move towards a safe-opening post-Circuit Breaker, keeping our public toile
 **For Premises Owner**<br>
 [English / Malay / Chinese / Tamil](/files/PTC-signages.pdf)<br>
 **Clean Toilet Checklist**<br>
-[English](/file/toilet-checklist.pdf)<br>
+[English](/files/toilet-checklist.pdf)<br>
 
