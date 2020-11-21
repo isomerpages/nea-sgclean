@@ -8,7 +8,7 @@ third_nav_title: For Owners of Premises
 
 ## Certified Premises
 
-_updated as of 09 October 2020_
+_updated as of 21 November 2020_
 
 ### Hawker Centres
 [List of hawker centres awarded SG Clean](/join/list-hawkers.pdf)
