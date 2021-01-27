@@ -1,6 +1,6 @@
 ---
-title: Practise Good Hygiene Habits
-permalink: /join/for-individuals/
+title: Clean Tables Campaign
+permalink: /join/for-individuals/clean-tables-campaign
 third_nav_title: For Individuals
 ---
 
