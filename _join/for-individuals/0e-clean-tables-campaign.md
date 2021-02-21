@@ -11,7 +11,7 @@ But let’s remember to clean up after ourselves!** <br>
 
 •	Used tissues and wipes <br>
 •	Disposable cutlery and containers <br>
-•	Food remnants such as bones and shells< br>
+•	Food remnants such as bones and shells <br>
 •	Straws and wrappers <br>
 •	Canned drinks and plastic bottles <br>
 
