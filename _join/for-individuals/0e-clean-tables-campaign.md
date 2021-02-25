@@ -4,8 +4,7 @@ permalink: /join/for-individuals/clean-tables-campaign/
 third_nav_title: For Individuals
 ---
 
-**We all dine differently.<br>
-But let’s remember to clean up after ourselves!** <br>
+![TR_MC](/images/TR_MC.jpg)![TR_Saman](/images/TR_Saman.jpg)
 
 **What is Table Litter?** <br>
 
@@ -21,4 +20,6 @@ But let’s remember to clean up after ourselves!** <br>
 •	Return your trays and crockery <br>
 
 Every diner deserves a clean table. Let’s be gracious and keep our hawker centres, coffeeshops and food courts clean and safe. <br>
+
+[![Be a Returner!](https://img.youtube.com/vi/Tts9eqbWPlU/0.jpg)](https://www.youtube.com/watch?v=Tts9eqbWPlU)<br>
 
