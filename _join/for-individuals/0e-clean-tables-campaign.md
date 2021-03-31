@@ -4,7 +4,7 @@ permalink: /join/for-individuals/clean-tables-campaign/
 third_nav_title: For Individuals
 ---
 
-**Every diner deserves a clean table** <br>
+**Every diner deserves a clean table.** <br>
 
 [![Which Type of Diner Are You!](https://img.youtube.com/vi/1Z_RNv6HnM8/0.jpg)](https://www.youtube.com/watch?v=1Z_RNv6HnM8)<br>
 
