@@ -23,5 +23,5 @@ third_nav_title: For Individuals
 
 Let’s be gracious and keep our hawker centres, coffeeshops and food courts clean and safe. <br>
 
-![TR_MC](/images/TR_MC.jpg)![TR_Saman](/images/TR_Saman.jpg)
+![TR_MC](/images/TR_MC.jpg)![TR_Saman](/images/TR_Saman.jpg)![TR_Mala](/images/TR_Mala.jpg)
 
