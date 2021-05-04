@@ -1,0 +1,7 @@
+collections:
+  resources:
+    output: true
+    order:
+      - posters.md
+      - advisories.md
+      - other-materials.md
