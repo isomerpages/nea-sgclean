@@ -13,7 +13,7 @@ third_nav_title: For Owners of Premises
 **1. Obtain checklist and ensure requirements are met**<br>
 
 
-You may obtain the relevant **[checklist(s)](../assessments)** for your premise(s) according to sectors.
+You may obtain the relevant **[checklist(s)](/assessments)** for your premise(s) according to sectors.
 
 
 **2. Contact relevant agency/appointed assessor to arrange assessment when ready**
