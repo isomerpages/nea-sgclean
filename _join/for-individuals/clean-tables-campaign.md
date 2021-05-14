@@ -4,24 +4,28 @@ permalink: /join/for-individuals/clean-tables-campaign/
 third_nav_title: For Individuals
 ---
 
-**Every diner deserves a clean table.** <br>
+![CTC_fine](/images/CTC_fine.jpg) <br>
 
-[![Which Type of Diner Are You!](https://img.youtube.com/vi/1Z_RNv6HnM8/0.jpg)](https://www.youtube.com/watch?v=1Z_RNv6HnM8)<br>
+**What is an offence?** <br>
 
-**What is Table Litter?** <br>
-
-•	Used tissues and wipes <br>
-•	Disposable cutlery and containers <br>
+1)	Leaving behind dirty trays and crockery and litter on the tables such as: <br>
+•	Used tissues and wet wipes <br>
+•	Straws <br>
+•	Wrappers <br>
+•	Canned drinks <br>
+•	Plastic bottles <br>
 •	Food remnants such as bones and shells <br>
-•	Straws and wrappers <br>
-•	Canned drinks and plastic bottles <br>
 
-**How can we do our part?**<br>
+2)	Not picking up wrappers, straws, tissues or anything that has dropped/blown off the table onto the floor* <br>
+
+**Accidental spillage of drink or gravy on the table is not an offence.* <br>
+
+**What should you do?**<br>
+
+It is important for all diners to share the responsibility of maintaining the cleanliness and hygiene of public dining places in Singapore. Please remember to: <br> 
 •	Keep the table clean for the next diner <br>
-•	Clear your table litter <br>
-•	Return your trays and crockery <br>
+•	Clear your tissues and wet wipes <br>
+•	Return your dirty trays and crockery <br>
 
-Let’s be gracious and keep our hawker centres, coffeeshops and food courts clean and safe. <br>
-
-![TR_MC](/images/TR_MC.jpg)![TR_Saman](/images/TR_Saman.jpg)![TR_Mala](/images/TR_Mala.jpg)
+Please visit the [NEA website](https://www.nea.gov.sg/media/news/news/index/mandatory-for-diners-to-return-dirty-trays-crockery-and-clean-table-litter-at-hawker-centres-coffeeshops-and-food-courts) for more information. <br>
 
