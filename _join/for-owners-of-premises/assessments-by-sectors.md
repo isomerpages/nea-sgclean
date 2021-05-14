@@ -161,7 +161,6 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end June 2020. 
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -232,7 +231,6 @@ _Updated as of 02 June 2020_
 
 **Contact ESG:** Please click [here](https://go.gov.sg/esgsgclean) to indicate your interest for the SG Clean Certification. <br><br>
 
-_If your premises are located within an Integrated Resort, Hotel, or Sentosa, please click_ [here](https://go.gov.sg/stb-sgclean-participation)
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -254,7 +252,6 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end June 2020. 
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -273,7 +270,6 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end June 2020. 
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -296,7 +292,6 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end June 2020. 
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -318,7 +313,6 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end June 2020. 
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -337,7 +331,6 @@ _If your premises are located within an Integrated Resort, Hotel, or Sentosa, pl
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**Contact STB:** Please click [here](https://go.gov.sg/stb-sgclean-participation) to indicate your interest for the SG Clean Certification by end June 2020. 
 
 <br><br><br><br><br><br><br><br><br><br>
 

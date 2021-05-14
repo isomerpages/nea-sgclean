@@ -13,7 +13,7 @@ third_nav_title: For Owners of Premises
 **1. Obtain checklist and ensure requirements are met**<br>
 
 
-You may obtain the relevant checklist(s) for your premise(s) according to sectors **[here](../assessments)**.
+You may obtain the relevant **[checklist(s)](https://www.sgclean.gov.sg/join/for-owners/assessments/)** for your premise(s) according to sectors.
 
 
 **2. Contact relevant agency/appointed assessor to arrange assessment when ready**
