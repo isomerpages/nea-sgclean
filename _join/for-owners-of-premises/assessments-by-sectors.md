@@ -25,7 +25,7 @@ _Updated as of 02 June 2020_
 [Singapore Visitor Centre](#svc) <br>
 [Cruise Terminals](#cruise) <br>
 [Commercial Premises](#commercial) <br>
-[Sports Facilities](#sports) <br>
+[Sports & Fitness Facilities](#sports) <br>
 [Religious Organisations](#ro)** <br>
 
 
@@ -364,7 +364,7 @@ _Updated as of 02 June 2020_
 ---
 
 <a name="sports"></a>
-### Sports Facilities
+### Sports & Fitness Facilities
 
 [**Checklist for Sports Facilities**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
