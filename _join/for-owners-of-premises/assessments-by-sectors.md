@@ -363,15 +363,15 @@ _Updated as of 02 June 2020_
 
 ---
 
-<a name="commercial"></a>
+<a name="sports"></a>
 ### Sports Facilities
 
 [**Checklist for Sports Facilities**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-For Sport Facilities within Malls [Contact ESG for audit](https://go.gov.sg/esgsgclean)
+For Sport Facilities within Malls: [Contact ESG for audit](https://go.gov.sg/esgsgclean)
 
-** For Commercial Premises [Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+For Commercial Premises: [Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -383,7 +383,7 @@ For Sport Facilities within Malls [Contact ESG for audit](https://go.gov.sg/esgs
 
 ---
 
-<a name="commercial"></a>
+<a name="ro"></a>
 ### Religious Organisations
 
 [**Checklist for Religious Organisations**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
