@@ -23,7 +23,11 @@ _Updated as of 02 June 2020_
 [Attractions](#attractions) <br>
 [Integrated Resorts](#ir) <br>
 [Singapore Visitor Centre](#svc) <br>
-[Cruise Terminals](#cruise)** <br>
+[Cruise Terminals](#cruise) <br>
+[Commercial Premises](#commercial) <br>
+[Sports & Fitness Facilities](#sports) <br>
+[Religious Organisations](#ro)** <br>
+
 
 
 **More questions about SG Clean? See our [FAQ.](/faq/)**
@@ -330,6 +334,62 @@ _Updated as of 02 June 2020_
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+[back to top](#top)
+
+---
+
+<a name="commercial"></a>
+### Commercial Premises
+
+[**Commercial Premises checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
+
+**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+[back to top](#top)
+
+---
+
+<a name="sports"></a>
+### Sports & Fitness Facilities
+
+[**Checklist for Sports Facilities**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
+
+For Sport Facilities within Malls: [Contact ESG for audit](https://go.gov.sg/esgsgclean)
+
+For Commercial Premises: [Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)
+
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+[back to top](#top)
+
+---
+
+<a name="ro"></a>
+### Religious Organisations
+
+[**Checklist for Religious Organisations**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
+
+**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 
 <br><br><br><br><br><br><br><br><br><br>
