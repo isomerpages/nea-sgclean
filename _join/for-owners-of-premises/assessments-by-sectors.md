@@ -371,9 +371,9 @@ _Updated as of 02 June 2020_
 
 
 
-**For Sport Facilities located within malls [Contact ESG](https://go.gov.sg/esgsgclean)** 
+**For Sport Facilities located within Malls: [Contact ESG](https://go.gov.sg/esgsgclean)** 
 
-**For Commercial Premises [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**For Commercial Premises: [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 
 <br><br><br><br><br><br><br><br><br><br>
