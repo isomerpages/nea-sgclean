@@ -21,6 +21,6 @@ third_nav_title: For Individuals
 6.    Keep your surroundings clean, well-ventilated and pest-free
 7.    Keep toilets clean and dry
 
-Join us as an SG Clean Ambassador [here](https://go.gov.sg/rz3cer).
+Join us as an [SG Clean Ambassador](https://go.gov.sg/rz3cer).
 
 Have questions about SG Clean? See our [FAQ.](/faq/)
