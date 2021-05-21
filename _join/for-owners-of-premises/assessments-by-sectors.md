@@ -42,7 +42,7 @@ _Updated as of 02 June 2020_
 [**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**To indicate your interest for the SG Clean Certification: [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -63,7 +63,7 @@ _Updated as of 02 June 2020_
 [**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact SFA for audit](https://www.sfa.gov.sg/contact-us/sfa-headquarters)**
+**To indicate your interest for the SG Clean Certification: [Contact SFA](https://www.sfa.gov.sg/contact-us/sfa-headquarters)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -83,7 +83,7 @@ _Updated as of 02 June 2020_
 [**Transport nodes checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**To indicate your interest for the SG Clean Certification: [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -103,7 +103,7 @@ _Updated as of 02 June 2020_
 [**Schools checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**To indicate your interest for the SG Clean Certification: [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -123,7 +123,7 @@ _Updated as of 02 June 2020_
 [**Early childhood facilities checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**To indicate your interest for the SG Clean Certification: [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -143,7 +143,7 @@ _Updated as of 02 June 2020_
 [**Government-occupied checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**To indicate your interest for the SG Clean Certification: [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -187,7 +187,7 @@ _Updated as of 02 June 2020_
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-**To indicate your interest for the SG Clean Certification: [Contact ESG](https://go.gov.sg/esgsgclean)**  <br><br>
+**To indicate your interest for the SG Clean Certification: [Contact ESG](https://go.gov.sg/esgsgclean)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -210,7 +210,7 @@ _Updated as of 02 June 2020_
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-**Contact ESG:** Please click [here](https://go.gov.sg/esgsgclean) to indicate your interest for the SG Clean Certification. <br><br>
+**To indicate your interest for the SG Clean Certification: [Contact ESG](https://go.gov.sg/esgsgclean)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -233,7 +233,7 @@ _Updated as of 02 June 2020_
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-**Contact ESG:** Please click [here](https://go.gov.sg/esgsgclean) to indicate your interest for the SG Clean Certification. <br><br>
+**To indicate your interest for the SG Clean Certification: [Contact ESG](https://go.gov.sg/esgsgclean)**
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -351,7 +351,7 @@ _Updated as of 02 June 2020_
 [**Commercial Premises checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**To indicate your interest for the SG Clean Certification: [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -369,9 +369,9 @@ _Updated as of 02 June 2020_
 [**Checklist for Sports Facilities**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-For Sport Facilities within Malls: [Contact ESG for audit](https://go.gov.sg/esgsgclean)
+For Sport Facilities within Malls: [Contact ESG](https://go.gov.sg/esgsgclean)
 
-For Commercial Premises: [Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)
+For Commercial Premises: [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -389,7 +389,7 @@ For Commercial Premises: [Contact NEA for audit](https://www.nea.gov.sg/corporat
 [**Checklist for Religious Organisations**](https://nea-sgclean-staging.netlify.com/files/checklist-generic.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA for audit](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**To indicate your interest for the SG Clean Certification: [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 
 <br><br><br><br><br><br><br><br><br><br>
