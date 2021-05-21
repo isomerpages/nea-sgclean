@@ -42,7 +42,8 @@ _Updated as of 02 June 2020_
 [**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview) to indicate your interest for the SG Clean Certification**
+To indicate your interest for the SG Clean Certification:
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
 
 <br><br><br><br><br><br><br><br><br><br>
 
