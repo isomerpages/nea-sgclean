@@ -187,7 +187,7 @@ _Updated as of 02 June 2020_
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-**Contact ESG:** Please click [here](https://go.gov.sg/esgsgclean) to indicate your interest for the SG Clean Certification. <br><br>
+**[Contact ESG](https://go.gov.sg/esgsgclean)** to indicate your interest for the SG Clean Certification. <br><br>
 
 <br><br><br><br><br><br><br><br><br><br>
 
