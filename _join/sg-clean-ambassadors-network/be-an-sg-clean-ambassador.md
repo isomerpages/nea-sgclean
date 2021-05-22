@@ -8,6 +8,6 @@ third_nav_title: SG Clean Ambassadors Network
 
 ---
 
-### Sign-up as an SG Clean Ambassador [here](https://go.gov.sg/rz3cer) <br>
+### [Sign-up as an SG Clean Ambassador](https://go.gov.sg/rz3cer) <br>
 
 --- <br>
