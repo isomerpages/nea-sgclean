@@ -165,6 +165,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -256,6 +257,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -274,6 +276,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -296,6 +299,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -317,6 +321,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -335,6 +340,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
