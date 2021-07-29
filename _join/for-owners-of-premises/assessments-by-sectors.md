@@ -431,7 +431,7 @@ _Updated as of 02 June 2020_
 <a name="serviced"></a>
 ### Serviced Apartments
 
-[**Checklist for Serviced Apartmentss**](https://nea-sgclean-staging.netlify.com/files/checklist-servicedapartments.pdf)<br><br>
+[**Checklist for Serviced Apartments**](https://nea-sgclean-staging.netlify.com/files/checklist-servicedapartments.pdf)<br><br>
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
