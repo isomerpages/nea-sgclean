@@ -27,8 +27,8 @@ _Updated as of 02 June 2020_
 [Commercial Premises](#commercial) <br>
 [Sports & Fitness Facilities](#sports) <br>
 [Religious Organisations](#ro)** <br>
-[Arts Venue](#art)** <br>
-[Serviced Apartments](#serviced)**<br>
+**[Arts Venue](#art)** <br>
+**[Serviced Apartments](#serviced)**<br>
 
 **More questions about SG Clean? See our [FAQ.](/faq/)**
 
