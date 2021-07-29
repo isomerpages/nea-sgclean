@@ -27,8 +27,8 @@ _Updated as of 02 June 2020_
 [Commercial Premises](#commercial) <br>
 [Sports & Fitness Facilities](#sports) <br>
 [Religious Organisations](#ro)** <br>
-
-
+**[Arts Venue](#arts)** <br>
+**[Serviced Apartments](#serviced)**<br>
 
 **More questions about SG Clean? See our [FAQ.](/faq/)**
 
@@ -165,6 +165,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -256,6 +257,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -274,6 +276,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -296,6 +299,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -317,6 +321,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -335,6 +340,7 @@ _Updated as of 02 June 2020_
 [**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -393,6 +399,44 @@ _Updated as of 02 June 2020_
 
 **[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview) to indicate your interest for the SG Clean Certification**
 
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+[back to top](#top)
+
+---
+
+<a name="arts"></a>
+### Arts Venue
+
+[**Checklist for Arts Venue**](https://nea-sgclean-staging.netlify.com/files/checklist-art.pdf)<br><br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
+
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+[back to top](#top)
+
+---
+
+<a name="serviced"></a>
+### Serviced Apartments
+
+[**Checklist for Serviced Apartments**](https://nea-sgclean-staging.netlify.com/files/checklist-servicedapartments.pdf)<br><br>
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
+[**Temperature Monitoring Log**](https://nea-sgclean-staging.netlify.com/files/temperature.pdf)<br><br>
+[**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
+
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
