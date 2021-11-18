@@ -6,7 +6,7 @@ third_nav_title: For Individuals
 ![PTC2021](/images/PTC2021.jpg)
 ---
 This year’s Public Toilet Cleanliness campaign aims to: <br>
-<li>Drive home the importance of keeping public toilets as clean as our home toilets to prevent disease transmission
+<li>Drive home the importance of keeping public toilets as clean as our home toilets to prevent disease transmission</li>
 <li>Instill good toilet hygiene practices amongst public toilets users  through the four clean toilet actions of ‘Flush, Clean, Bin, Dry’</li>
 
 #SGClean #KeepSGClean
