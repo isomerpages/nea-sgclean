@@ -14,7 +14,7 @@ This year’s Public Toilet Cleanliness campaign aims to: <br>
 
 **Public Toilet Cleanliness 2021 Campaign Posters** <br>
 [English / Malay](/files/PTC2021-EM.jpg)<br>
-[Chinese / Tamil](/files/PTC2021-CT.ipg)<br><br>
+[Chinese / Tamil](/files/PTC2021-CT.jpg)<br><br>
 **Video**<br>
 [![Feel Safe Like You Do At Home](https://img.youtube.com/vi/Ko9ZLZZbLcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ko9ZLZZbLcQ)<br>
 <br>
