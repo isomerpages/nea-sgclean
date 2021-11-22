@@ -3,12 +3,11 @@ title: Certified Premises
 permalink: /join/for-owners/certified-premises/
 third_nav_title: For Owners of Premises
 ---
-
 ![SG Clean certified school](/images/school-banner.jpg)
 
 ## Certified Premises
 
-_updated as of 3 November 2021_
+_updated as of 21 November 2021_
 
 ### Hawker Centres
 [List of hawker centres awarded SG Clean](/join/list-hawkers.pdf)
