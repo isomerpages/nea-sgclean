@@ -1,9 +1,9 @@
 ---
-title: About SG Clean
+title: About
 permalink: /about/
 ---
 
-### About SG Clean
+### About
 
 *Concerted action needed from everyone to elevate cleanliness and public hygiene standards and make them the new norms.*
   
