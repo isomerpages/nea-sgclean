@@ -1,13 +1,6 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/sgcleanlogo.jpg
-
 links:
-  - title: What is SG Clean?
+  - title: About
     url: /about/
   - title: Join the Campaign
     collection: join
