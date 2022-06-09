@@ -2,7 +2,6 @@
 title: About
 permalink: /about/
 ---
-
 ### About
 
 *Concerted action needed from everyone to elevate cleanliness and public hygiene standards and make them the new norms.*
@@ -22,7 +21,7 @@ To help prevent community spread of COVID-19, it has been necessary to make adju
 While the SG Clean campaign will help to reduce public health risks from the current COVID-19 situation, the longer-term objective is to instil greater awareness of good hygiene and cleaning practices, and to ensure that these are sustained at high levels beyond the current COVID-19 outbreak.
 
 Everyone can play a part in keeping themselves and others around them safe, by adopting good personal habits.
-For more information on good hygiene habits, view [here](/join/for-individuals/).
+For more information on [good hygiene habits](/join/for-individuals/).
 
 #### For Owners of Premises
 
@@ -32,8 +31,6 @@ An important component of the SG Clean campaign is the SG Clean quality mark, a 
 
 To raise hygiene standards and transform the cleanliness levels of public spaces, the SG Clean campaign has involved owners of premises adopting the SG Clean quality mark, to reflect their commitment and ownership of maintaining high standards of environmental public hygiene at their premises.  
 
-For more information on the SG Clean quality mark certification, view [here](/join/for-owners/how-to-be-certified/).
+For more information on the [SG Clean quality mark certification](/join/for-owners/how-to-be-certified/).
 
 Through collective action by all stakeholders, we can contribute towards safeguarding public health and making Singapore a cleaner, more liveable and pleasant environment for all.
-
- 
