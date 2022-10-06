@@ -6,7 +6,7 @@ third_nav_title: For Owners of Premises
 
 ## Select the category or sector that you most closely belong to:
 
-_Updated as of 02 June 2020_
+_Updated as of 06 Oct 2022_
 
 <a name="top"></a>
 **[Hawker Centres](#hawker) <br>
@@ -63,7 +63,7 @@ _Updated as of 02 June 2020_
 [**Food stalls checklist**](https://nea-sgclean-staging.netlify.com/files/checklist-foodstalls.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact SFA](https://www.sfa.gov.sg/contact-us/sfa-headquarters) to indicate your interest for the SG Clean Certification**
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -185,7 +185,7 @@ _Updated as of 02 June 2020_
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-**[Contact ESG](https://go.gov.sg/esgsgclean) to indicate your interest for the SG Clean Certification**
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -206,7 +206,7 @@ _Updated as of 02 June 2020_
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-**[Contact ESG](https://go.gov.sg/esgsgclean) to indicate your interest for the SG Clean Certification**
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -227,7 +227,7 @@ _Updated as of 02 June 2020_
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 
-**[Contact ESG](https://go.gov.sg/esgsgclean) to indicate your interest for the SG Clean Certification**
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview) to indicate your interest for the SG Clean Certification**
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -365,9 +365,7 @@ _Updated as of 02 June 2020_
 
 
 
-**For Sport Facilities located within Malls: [Contact ESG](https://go.gov.sg/esgsgclean)** 
-
-**For Commercial Premises: [Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview)**
+**[Contact NEA](https://www.nea.gov.sg/corporate-functions/Contact-Us/overview) to indicate your interest for the SG Clean Certification**
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -404,7 +402,7 @@ _Updated as of 02 June 2020_
 [**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
-**[Contact STB](https://go.gov.sg/stbsgclean)f to indicate your interest for the SG Clean Certification**
+**[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -419,7 +417,7 @@ _Updated as of 02 June 2020_
 ### Serviced Apartments
 
 [**Checklist for Serviced Apartments**](https://nea-sgclean-staging.netlify.com/files/checklist-servicedapartments.pdf)<br><br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>f
+[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 **[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
