@@ -161,7 +161,6 @@ _Updated as of 31 Oct 2022_
 ### Singapore Licensed Hotels
 
 [**Checklist for Singapore licensed hotels**](https://nea-sgclean-staging.netlify.com/files/checklist-hotels.pdf)<br><br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 **[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
@@ -246,7 +245,6 @@ _Updated as of 31 Oct 2022_
 ### MICE venues
 
 [**Checklist for MICE venues**](https://nea-sgclean-staging.netlify.com/files/checklist-mice.pdf)<br><br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 **[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
@@ -264,7 +262,6 @@ _Updated as of 31 Oct 2022_
 ### Integrated Resorts
 
 [**Checklist for Integrated Resorts**](https://nea-sgclean-staging.netlify.com/files/checklist-ir.pdf)<br><br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 **[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
@@ -286,7 +283,6 @@ _Updated as of 31 Oct 2022_
 ### Singapore Visitor Centres
 
 [**Checklist for SVC**](https://nea-sgclean-staging.netlify.com/files/checklist-svc.pdf)<br><br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 **[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
@@ -307,7 +303,6 @@ _Updated as of 31 Oct 2022_
 ### Attractions Establishments
 
 [**Checklist for Attractions Establishments**](https://nea-sgclean-staging.netlify.com/files/checklist-attractions.pdf)<br><br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 **[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
@@ -325,7 +320,6 @@ _Updated as of 31 Oct 2022_
 ### Cruise Terminals
 
 [**Checklist for Cruise Terminals**](https://nea-sgclean-staging.netlify.com/files/checklist-cruise.pdf)<br><br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 **[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
@@ -399,7 +393,6 @@ _Updated as of 31 Oct 2022_
 ### Arts Venue
 
 [**Checklist for Arts Venue**](https://nea-sgclean-staging.netlify.com/files/checklist-art.pdf)<br><br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 **[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
@@ -417,7 +410,6 @@ _Updated as of 31 Oct 2022_
 ### Serviced Apartments
 
 [**Checklist for Serviced Apartments**](https://nea-sgclean-staging.netlify.com/files/checklist-servicedapartments.pdf)<br><br>
-[**Travel Declaration and Contact Tracing Form**](https://nea-sgclean-staging.netlify.com/files/travel-declaration.pdf)<br><br>
 [**Advisories**](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/general-sanitation-and-hygiene-advisory-for-premises-owners-and-operators)<br><br>
 
 **[Contact STB](https://go.gov.sg/stbsgclean) to indicate your interest for the SG Clean Certification**
