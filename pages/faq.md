@@ -5,12 +5,6 @@ permalink: /faq/
 
 ### **FAQ**
 
----
-
-**I had earlier been assessed prior to the start of circuit breaker measures. When will I know the results of the assessment, and get the collaterals for display?**
-
-For establishments that fall under ESG and STB, the results of the assessment will be made known when ready. However, the marketing collaterals will be delivered after the circuit breaker measures are lifted.
-
 
 ---
 
@@ -43,10 +37,7 @@ Premises operators will have their premises audited by agencies or appointed thi
 
 |   | Sector Lead | Premises                                                                                                                                                                      |
 |---|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | ESG         | Food establishments, retail and shopping malls (except premises located within tourism establishments, refer to Item 3)                                                       |
-| 2 | SFA         | Canteens, coffeeshops and market and hawker stalls                                                                                                                            |
-| 3 | STB         | Attractions, hotels, integrated resorts, MICEs venues and cruise terminals (including food and beverage, and retails outlets within these tourism establishments) and Sentosa |
-| 4 | NEA         | All premises types excluding premises listed under Item 1 to 3                                                                                                                |
+| 1 | NEA         | All premises including food establishments, retail, shopping malls, canteens, coffeeshops, market and hawker stalls, attractions, hotels, integrated resorts, MICEs venues and cruise terminals (including food and beverage, and retails outlets within these tourism establishments) and Sentosa
 
 ---
 
