@@ -6,7 +6,7 @@ third_nav_title: For Owners of Premises
 
 ## Select the category or sector that you most closely belong to:
 
-_Updated as of 31 Oct 2022_
+_Updated as of 30 Nov 2022_
 
 <a name="top"></a>
 **[Hawker Centres](#hawker) <br>
