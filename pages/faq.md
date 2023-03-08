@@ -89,7 +89,7 @@ The first certification to obtain the SG Clean Quality Mark is complimentary to 
 **What is the validity period of the SG Clean quality mark?**  
 
 
-The SG Clean quality mark is valid upon certification till 30 June 2023. For tourism establishments, F&B, Retail and Shopping Malls, the certification would be valid till 31 December 2022.
+The SG Clean quality mark is valid upon certification till 30 June 2023.
 
 ---
 
