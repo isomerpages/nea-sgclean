@@ -117,7 +117,7 @@ Premises operators can refer to the sector-specific checklist and advisories and
 **What do I do if I encounter challenges meeting the requirements?**
 
 
-Premises operators can contact the respective industry lead agency to seek advice on best practices or contact the appointed third-party assessors to identify any shortcomings and share best practices to meet the requirements and apply for the SG Clean quality mark
+Premises operators can contact the respective industry lead agency to seek advice on best practices or contact the appointed third-party assessors to identify any shortcomings and share best practices to meet the requirements and apply for the SG Clean quality mark.
 
 
 
