@@ -5,8 +5,8 @@ description: SG Clean seeks to rally stakeholders and members of public to do
   their part, by adopting good personal habits and social responsibility.
 image: /images/handwash2.jpg
 permalink: /
-notification: <a href="https://form.gov.sg/5e7484a2ca6a010011862c59"> Join us as
-  an SG Clean Ambassador today! </a>
+notification: <a href="https://form.gov.sg/5e7484a2ca6a010011862c59"> Thank you for
+  your support of the SG Clean Quality Mark </a>
 sections:
   - hero:
       title: Let's Do Our Part to Keep SG Clean
