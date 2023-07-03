@@ -5,8 +5,13 @@ description: SG Clean seeks to rally stakeholders and members of public to do
   their part, by adopting good personal habits and social responsibility.
 image: /images/handwash2.jpg
 permalink: /
-notification: <a href="https://form.gov.sg/5e7484a2ca6a010011862c59"> Thank you for
-  your support of the SG Clean Quality Mark </a>
+notification: <a> Thank you for
+  your support for the SG Clean Quality Mark. 
+  With the continued transition towards COVID-19 endemicity, the SG Clean Quality Mark will be discontinued upon its expiry on 30 Jun 2023.
+  The PHC will introduce a checklist to guide premises operators to continue the practice of good hygiene routine.
+  The checklist will be available on the PHC website (www.publichygienecouncil.sg) from 17 Jul 2023 onwards.
+  We look forward to your continued support as we make Singapore truly clean.
+    </a>
 sections:
   - hero:
       title: Let's Do Our Part to Keep SG Clean
