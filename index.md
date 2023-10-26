@@ -7,10 +7,7 @@ image: /images/handwash2.jpg
 permalink: /
 notification: <a> Thank you for
   your support for the SG Clean Quality Mark. 
-  With the continued transition towards COVID-19 endemicity, the SG Clean Quality Mark will be discontinued upon its expiry on 30 Jun 2023.
-  The PHC will introduce a checklist to guide premises operators to continue the practice of good hygiene routine.
-  The checklist will be available on the PHC website (www.publichygienecouncil.sg) from 17 Jul 2023 onwards.
-  We look forward to your continued support as we make Singapore truly clean.
+  SGClean website will decommissioning with effect on 1 Nov 2023.
     </a>
 sections:
   - hero:
